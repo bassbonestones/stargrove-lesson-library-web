@@ -1,5 +1,5 @@
 {
-  "count": 48,
+  "count": 49,
   "family_count": 16,
   "subjects": [
     {
@@ -15,7 +15,7 @@
     {
       "key": "social",
       "title": "Social & Emotional Learning",
-      "count": 5
+      "count": 6
     },
     {
       "key": "physical",
@@ -35,34 +35,34 @@
       "topic": "Counting & Cardinality",
       "title": "The Counting Collections Studio — teacher/parent lesson guide",
       "plan": "LESSON_01_COLLECTION_COUNT_AND_TOTAL.md",
-      "url": "/lessons/number-sense-count-and-cardinality-v0_1/LESSON_01_COLLECTION_COUNT_AND_TOTAL.html",
+      "url": "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/LESSON_01_COLLECTION_COUNT_AND_TOTAL.html",
       "sources": [],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/number-sense-count-and-cardinality-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Counting Mats And Observation",
-          "/lessons/number-sense-count-and-cardinality-v0_1/COUNTING_MATS_AND_OBSERVATION.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/COUNTING_MATS_AND_OBSERVATION.html"
         ],
         [
           "Method 02 Path Cards",
-          "/lessons/number-sense-count-and-cardinality-v0_1/METHOD_02_PATH_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/METHOD_02_PATH_CARDS.html"
         ],
         [
           "Method 03 Detective Cards",
-          "/lessons/number-sense-count-and-cardinality-v0_1/METHOD_03_DETECTIVE_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/METHOD_03_DETECTIVE_CARDS.html"
         ],
         [
           "Method 04 Design Cards",
-          "/lessons/number-sense-count-and-cardinality-v0_1/METHOD_04_DESIGN_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/METHOD_04_DESIGN_CARDS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/number-sense-count-and-cardinality-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/number-sense-count-and-cardinality-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 1
@@ -73,7 +73,7 @@
       "topic": "Counting & Cardinality",
       "title": "Walking the Count Trail: objects, one visit each",
       "plan": "LESSON_02_MOVEMENT_COUNT_TRAIL.md",
-      "url": "/lessons/number-sense-count-and-cardinality-v0_1/LESSON_02_MOVEMENT_COUNT_TRAIL.html",
+      "url": "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/LESSON_02_MOVEMENT_COUNT_TRAIL.html",
       "sources": [
         "PK3.V.A.2",
         "PK3.V.A.3",
@@ -81,31 +81,31 @@
         "PK4.V.A.3"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/number-sense-count-and-cardinality-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Counting Mats And Observation",
-          "/lessons/number-sense-count-and-cardinality-v0_1/COUNTING_MATS_AND_OBSERVATION.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/COUNTING_MATS_AND_OBSERVATION.html"
         ],
         [
           "Method 02 Path Cards",
-          "/lessons/number-sense-count-and-cardinality-v0_1/METHOD_02_PATH_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/METHOD_02_PATH_CARDS.html"
         ],
         [
           "Method 03 Detective Cards",
-          "/lessons/number-sense-count-and-cardinality-v0_1/METHOD_03_DETECTIVE_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/METHOD_03_DETECTIVE_CARDS.html"
         ],
         [
           "Method 04 Design Cards",
-          "/lessons/number-sense-count-and-cardinality-v0_1/METHOD_04_DESIGN_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/METHOD_04_DESIGN_CARDS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/number-sense-count-and-cardinality-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/number-sense-count-and-cardinality-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 2
@@ -116,7 +116,7 @@
       "topic": "Counting & Cardinality",
       "title": "The Counting Detective: find the mistake, prove the total",
       "plan": "LESSON_03_COUNTING_DETECTIVE.md",
-      "url": "/lessons/number-sense-count-and-cardinality-v0_1/LESSON_03_COUNTING_DETECTIVE.html",
+      "url": "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/LESSON_03_COUNTING_DETECTIVE.html",
       "sources": [
         "PK3.V.A.2",
         "PK3.V.A.3",
@@ -124,31 +124,31 @@
         "PK4.V.A.3"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/number-sense-count-and-cardinality-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Counting Mats And Observation",
-          "/lessons/number-sense-count-and-cardinality-v0_1/COUNTING_MATS_AND_OBSERVATION.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/COUNTING_MATS_AND_OBSERVATION.html"
         ],
         [
           "Method 02 Path Cards",
-          "/lessons/number-sense-count-and-cardinality-v0_1/METHOD_02_PATH_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/METHOD_02_PATH_CARDS.html"
         ],
         [
           "Method 03 Detective Cards",
-          "/lessons/number-sense-count-and-cardinality-v0_1/METHOD_03_DETECTIVE_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/METHOD_03_DETECTIVE_CARDS.html"
         ],
         [
           "Method 04 Design Cards",
-          "/lessons/number-sense-count-and-cardinality-v0_1/METHOD_04_DESIGN_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/METHOD_04_DESIGN_CARDS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/number-sense-count-and-cardinality-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/number-sense-count-and-cardinality-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 3
@@ -159,7 +159,7 @@
       "topic": "Counting & Cardinality",
       "title": "Build the Collection: plan, count, verify, explain",
       "plan": "LESSON_04_BUILD_COLLECTION.md",
-      "url": "/lessons/number-sense-count-and-cardinality-v0_1/LESSON_04_BUILD_COLLECTION.html",
+      "url": "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/LESSON_04_BUILD_COLLECTION.html",
       "sources": [
         "PK3.V.A.2",
         "PK3.V.A.3",
@@ -167,31 +167,31 @@
         "PK4.V.A.3"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/number-sense-count-and-cardinality-v0_1/LESSON_04_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/LESSON_04_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Counting Mats And Observation",
-          "/lessons/number-sense-count-and-cardinality-v0_1/COUNTING_MATS_AND_OBSERVATION.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/COUNTING_MATS_AND_OBSERVATION.html"
         ],
         [
           "Method 02 Path Cards",
-          "/lessons/number-sense-count-and-cardinality-v0_1/METHOD_02_PATH_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/METHOD_02_PATH_CARDS.html"
         ],
         [
           "Method 03 Detective Cards",
-          "/lessons/number-sense-count-and-cardinality-v0_1/METHOD_03_DETECTIVE_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/METHOD_03_DETECTIVE_CARDS.html"
         ],
         [
           "Method 04 Design Cards",
-          "/lessons/number-sense-count-and-cardinality-v0_1/METHOD_04_DESIGN_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/METHOD_04_DESIGN_CARDS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/number-sense-count-and-cardinality-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/number-sense-count-and-cardinality-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 4
@@ -202,33 +202,33 @@
       "topic": "Subitizing",
       "title": "See the whole group without serial counting",
       "plan": "LESSON_01_WHOLE_GROUP_PERCEPTION.md",
-      "url": "/lessons/number-sense-subitizing-v0_1/LESSON_01_WHOLE_GROUP_PERCEPTION.html",
+      "url": "/stargrove-lesson-library-web/lessons/number-sense-subitizing-v0_1/LESSON_01_WHOLE_GROUP_PERCEPTION.html",
       "sources": [
         "PK3.V.A.4",
         "PK4.V.A.4"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/number-sense-subitizing-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/number-sense-subitizing-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Method 02 Group Maker Mat",
-          "/lessons/number-sense-subitizing-v0_1/METHOD_02_GROUP_MAKER_MAT.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-subitizing-v0_1/METHOD_02_GROUP_MAKER_MAT.html"
         ],
         [
           "Method 03 Compare Mats",
-          "/lessons/number-sense-subitizing-v0_1/METHOD_03_COMPARE_MATS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-subitizing-v0_1/METHOD_03_COMPARE_MATS.html"
         ],
         [
           "Dot Arrays And Observation",
-          "/lessons/number-sense-subitizing-v0_1/ORIGINAL_DOT_ARRAYS_AND_OBSERVATION.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-subitizing-v0_1/ORIGINAL_DOT_ARRAYS_AND_OBSERVATION.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/number-sense-subitizing-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-subitizing-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/number-sense-subitizing-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-subitizing-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 1
@@ -239,33 +239,33 @@
       "topic": "Subitizing",
       "title": "Make a Group, Notice a Group",
       "plan": "LESSON_02_GROUP_MAKER.md",
-      "url": "/lessons/number-sense-subitizing-v0_1/LESSON_02_GROUP_MAKER.html",
+      "url": "/stargrove-lesson-library-web/lessons/number-sense-subitizing-v0_1/LESSON_02_GROUP_MAKER.html",
       "sources": [
         "PK3.V.A.4",
         "PK4.V.A.4"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/number-sense-subitizing-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/number-sense-subitizing-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Method 02 Group Maker Mat",
-          "/lessons/number-sense-subitizing-v0_1/METHOD_02_GROUP_MAKER_MAT.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-subitizing-v0_1/METHOD_02_GROUP_MAKER_MAT.html"
         ],
         [
           "Method 03 Compare Mats",
-          "/lessons/number-sense-subitizing-v0_1/METHOD_03_COMPARE_MATS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-subitizing-v0_1/METHOD_03_COMPARE_MATS.html"
         ],
         [
           "Dot Arrays And Observation",
-          "/lessons/number-sense-subitizing-v0_1/ORIGINAL_DOT_ARRAYS_AND_OBSERVATION.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-subitizing-v0_1/ORIGINAL_DOT_ARRAYS_AND_OBSERVATION.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/number-sense-subitizing-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-subitizing-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/number-sense-subitizing-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-subitizing-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 2
@@ -276,26 +276,26 @@
       "topic": "Adult-Supported Digital Discovery",
       "title": "Use an actual adult-curated offline nature reference to find plant information",
       "plan": "LESSON_01_REAL_APPROVED_DIGITAL_PLANT_REFERENCE.md",
-      "url": "/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/LESSON_01_REAL_APPROVED_DIGITAL_PLANT_REFERENCE.html",
+      "url": "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/LESSON_01_REAL_APPROVED_DIGITAL_PLANT_REFERENCE.html",
       "sources": [],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Xa4 Assisted Information Invitations",
-          "/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/ORIGINAL_XA4_ASSISTED_INFORMATION_INVITATIONS.html"
+          "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/ORIGINAL_XA4_ASSISTED_INFORMATION_INVITATIONS.html"
         ],
         [
           "Xa4 Assisted Information Observations",
-          "/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/ORIGINAL_XA4_ASSISTED_INFORMATION_OBSERVATIONS.html"
+          "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/ORIGINAL_XA4_ASSISTED_INFORMATION_OBSERVATIONS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 1
@@ -306,33 +306,33 @@
       "topic": "Subitizing",
       "title": "Same Number, Different Shape?",
       "plan": "LESSON_03_QUANTITY_COMPARE.md",
-      "url": "/lessons/number-sense-subitizing-v0_1/LESSON_03_QUANTITY_COMPARE.html",
+      "url": "/stargrove-lesson-library-web/lessons/number-sense-subitizing-v0_1/LESSON_03_QUANTITY_COMPARE.html",
       "sources": [
         "PK3.V.A.4",
         "PK4.V.A.4"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/number-sense-subitizing-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/number-sense-subitizing-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Method 02 Group Maker Mat",
-          "/lessons/number-sense-subitizing-v0_1/METHOD_02_GROUP_MAKER_MAT.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-subitizing-v0_1/METHOD_02_GROUP_MAKER_MAT.html"
         ],
         [
           "Method 03 Compare Mats",
-          "/lessons/number-sense-subitizing-v0_1/METHOD_03_COMPARE_MATS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-subitizing-v0_1/METHOD_03_COMPARE_MATS.html"
         ],
         [
           "Dot Arrays And Observation",
-          "/lessons/number-sense-subitizing-v0_1/ORIGINAL_DOT_ARRAYS_AND_OBSERVATION.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-subitizing-v0_1/ORIGINAL_DOT_ARRAYS_AND_OBSERVATION.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/number-sense-subitizing-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-subitizing-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/number-sense-subitizing-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-subitizing-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 3
@@ -343,26 +343,26 @@
       "topic": "Adult-Supported Digital Discovery",
       "title": "Adult-assisted access to a real child-safe astronomy digital reference",
       "plan": "LESSON_02_TRUE_CURATED_SKY_INFORMATION.md",
-      "url": "/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/LESSON_02_TRUE_CURATED_SKY_INFORMATION.html",
+      "url": "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/LESSON_02_TRUE_CURATED_SKY_INFORMATION.html",
       "sources": [],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Xa4 Assisted Information Invitations",
-          "/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/ORIGINAL_XA4_ASSISTED_INFORMATION_INVITATIONS.html"
+          "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/ORIGINAL_XA4_ASSISTED_INFORMATION_INVITATIONS.html"
         ],
         [
           "Xa4 Assisted Information Observations",
-          "/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/ORIGINAL_XA4_ASSISTED_INFORMATION_OBSERVATIONS.html"
+          "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/ORIGINAL_XA4_ASSISTED_INFORMATION_OBSERVATIONS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 2
@@ -373,33 +373,33 @@
       "topic": "Representing Quantities",
       "title": "Make It Yours: independently represent a requested quantity",
       "plan": "LESSON_01_CHILD_CHOSEN_PHYSICAL_QUANTITY_SET.md",
-      "url": "/lessons/number-sense-quantity-representation-v0_1/LESSON_01_CHILD_CHOSEN_PHYSICAL_QUANTITY_SET.html",
+      "url": "/stargrove-lesson-library-web/lessons/number-sense-quantity-representation-v0_1/LESSON_01_CHILD_CHOSEN_PHYSICAL_QUANTITY_SET.html",
       "sources": [
         "PK3.V.A.6",
         "PK4.V.A.6"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/number-sense-quantity-representation-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/number-sense-quantity-representation-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Action Composer Mats",
-          "/lessons/number-sense-quantity-representation-v0_1/ACTION_COMPOSER_MATS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-quantity-representation-v0_1/ACTION_COMPOSER_MATS.html"
         ],
         [
           "Mark Maker Mats",
-          "/lessons/number-sense-quantity-representation-v0_1/MARK_MAKER_MATS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-quantity-representation-v0_1/MARK_MAKER_MATS.html"
         ],
         [
           "Make Mats",
-          "/lessons/number-sense-quantity-representation-v0_1/ORIGINAL_MAKE_MATS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-quantity-representation-v0_1/ORIGINAL_MAKE_MATS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/number-sense-quantity-representation-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-quantity-representation-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/number-sense-quantity-representation-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-quantity-representation-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 1
@@ -410,26 +410,26 @@
       "topic": "Adult-Supported Digital Discovery",
       "title": "Find information about a cultural or science object in an adult-managed digital collection",
       "plan": "LESSON_03_PROTECTED_DIGITAL_MUSEUM_OBJECT_QUESTIONS.md",
-      "url": "/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/LESSON_03_PROTECTED_DIGITAL_MUSEUM_OBJECT_QUESTIONS.html",
+      "url": "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/LESSON_03_PROTECTED_DIGITAL_MUSEUM_OBJECT_QUESTIONS.html",
       "sources": [],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Xa4 Assisted Information Invitations",
-          "/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/ORIGINAL_XA4_ASSISTED_INFORMATION_INVITATIONS.html"
+          "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/ORIGINAL_XA4_ASSISTED_INFORMATION_INVITATIONS.html"
         ],
         [
           "Xa4 Assisted Information Observations",
-          "/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/ORIGINAL_XA4_ASSISTED_INFORMATION_OBSERVATIONS.html"
+          "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/ORIGINAL_XA4_ASSISTED_INFORMATION_OBSERVATIONS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 3
@@ -440,33 +440,33 @@
       "topic": "Representing Quantities",
       "title": "Mark Makers: design a quantity with your own symbols",
       "plan": "LESSON_02_MARK_MAKERS.md",
-      "url": "/lessons/number-sense-quantity-representation-v0_1/LESSON_02_MARK_MAKERS.html",
+      "url": "/stargrove-lesson-library-web/lessons/number-sense-quantity-representation-v0_1/LESSON_02_MARK_MAKERS.html",
       "sources": [
         "PK3.V.A.6",
         "PK4.V.A.6"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/number-sense-quantity-representation-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/number-sense-quantity-representation-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Action Composer Mats",
-          "/lessons/number-sense-quantity-representation-v0_1/ACTION_COMPOSER_MATS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-quantity-representation-v0_1/ACTION_COMPOSER_MATS.html"
         ],
         [
           "Mark Maker Mats",
-          "/lessons/number-sense-quantity-representation-v0_1/MARK_MAKER_MATS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-quantity-representation-v0_1/MARK_MAKER_MATS.html"
         ],
         [
           "Make Mats",
-          "/lessons/number-sense-quantity-representation-v0_1/ORIGINAL_MAKE_MATS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-quantity-representation-v0_1/ORIGINAL_MAKE_MATS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/number-sense-quantity-representation-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-quantity-representation-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/number-sense-quantity-representation-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-quantity-representation-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 2
@@ -477,33 +477,33 @@
       "topic": "Representing Quantities",
       "title": "Quantity Composer: make an amount across actions in time",
       "plan": "LESSON_03_ACTION_COMPOSER.md",
-      "url": "/lessons/number-sense-quantity-representation-v0_1/LESSON_03_ACTION_COMPOSER.html",
+      "url": "/stargrove-lesson-library-web/lessons/number-sense-quantity-representation-v0_1/LESSON_03_ACTION_COMPOSER.html",
       "sources": [
         "PK3.V.A.6",
         "PK4.V.A.6"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/number-sense-quantity-representation-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/number-sense-quantity-representation-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Action Composer Mats",
-          "/lessons/number-sense-quantity-representation-v0_1/ACTION_COMPOSER_MATS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-quantity-representation-v0_1/ACTION_COMPOSER_MATS.html"
         ],
         [
           "Mark Maker Mats",
-          "/lessons/number-sense-quantity-representation-v0_1/MARK_MAKER_MATS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-quantity-representation-v0_1/MARK_MAKER_MATS.html"
         ],
         [
           "Make Mats",
-          "/lessons/number-sense-quantity-representation-v0_1/ORIGINAL_MAKE_MATS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-quantity-representation-v0_1/ORIGINAL_MAKE_MATS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/number-sense-quantity-representation-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-quantity-representation-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/number-sense-quantity-representation-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-quantity-representation-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 3
@@ -514,33 +514,33 @@
       "topic": "Recognizing Numerals",
       "title": "The Numeral Signal Studio: look, name, find",
       "plan": "LESSON_01_TRUE_NOVEL_NUMERAL_GLYPH_RECOGNITION.md",
-      "url": "/lessons/number-sense-numeral-recognition-v0_1/LESSON_01_TRUE_NOVEL_NUMERAL_GLYPH_RECOGNITION.html",
+      "url": "/stargrove-lesson-library-web/lessons/number-sense-numeral-recognition-v0_1/LESSON_01_TRUE_NOVEL_NUMERAL_GLYPH_RECOGNITION.html",
       "sources": [
         "PK3.V.A.5",
         "PK4.V.A.5"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/number-sense-numeral-recognition-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/number-sense-numeral-recognition-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Print Shop Mats",
-          "/lessons/number-sense-numeral-recognition-v0_1/PRINT_SHOP_MATS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-numeral-recognition-v0_1/PRINT_SHOP_MATS.html"
         ],
         [
           "Signal Studio Printable",
-          "/lessons/number-sense-numeral-recognition-v0_1/SIGNAL_STUDIO_PRINTABLE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-numeral-recognition-v0_1/SIGNAL_STUDIO_PRINTABLE.html"
         ],
         [
           "Sign Hunt Scenes",
-          "/lessons/number-sense-numeral-recognition-v0_1/SIGN_HUNT_SCENES.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-numeral-recognition-v0_1/SIGN_HUNT_SCENES.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/number-sense-numeral-recognition-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-numeral-recognition-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/number-sense-numeral-recognition-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-numeral-recognition-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 1
@@ -551,33 +551,33 @@
       "topic": "Recognizing Numerals",
       "title": "Number Sign Print Shop: one numeral across many appearances",
       "plan": "LESSON_02_PRINT_SHOP.md",
-      "url": "/lessons/number-sense-numeral-recognition-v0_1/LESSON_02_PRINT_SHOP.html",
+      "url": "/stargrove-lesson-library-web/lessons/number-sense-numeral-recognition-v0_1/LESSON_02_PRINT_SHOP.html",
       "sources": [
         "PK3.V.A.5",
         "PK4.V.A.5"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/number-sense-numeral-recognition-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/number-sense-numeral-recognition-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Print Shop Mats",
-          "/lessons/number-sense-numeral-recognition-v0_1/PRINT_SHOP_MATS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-numeral-recognition-v0_1/PRINT_SHOP_MATS.html"
         ],
         [
           "Signal Studio Printable",
-          "/lessons/number-sense-numeral-recognition-v0_1/SIGNAL_STUDIO_PRINTABLE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-numeral-recognition-v0_1/SIGNAL_STUDIO_PRINTABLE.html"
         ],
         [
           "Sign Hunt Scenes",
-          "/lessons/number-sense-numeral-recognition-v0_1/SIGN_HUNT_SCENES.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-numeral-recognition-v0_1/SIGN_HUNT_SCENES.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/number-sense-numeral-recognition-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-numeral-recognition-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/number-sense-numeral-recognition-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-numeral-recognition-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 2
@@ -588,33 +588,33 @@
       "topic": "Recognizing Numerals",
       "title": "The Sign-Finder Walk: read numerals where people use them",
       "plan": "LESSON_03_SIGN_HUNT.md",
-      "url": "/lessons/number-sense-numeral-recognition-v0_1/LESSON_03_SIGN_HUNT.html",
+      "url": "/stargrove-lesson-library-web/lessons/number-sense-numeral-recognition-v0_1/LESSON_03_SIGN_HUNT.html",
       "sources": [
         "PK3.V.A.5",
         "PK4.V.A.5"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/number-sense-numeral-recognition-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/number-sense-numeral-recognition-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Print Shop Mats",
-          "/lessons/number-sense-numeral-recognition-v0_1/PRINT_SHOP_MATS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-numeral-recognition-v0_1/PRINT_SHOP_MATS.html"
         ],
         [
           "Signal Studio Printable",
-          "/lessons/number-sense-numeral-recognition-v0_1/SIGNAL_STUDIO_PRINTABLE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-numeral-recognition-v0_1/SIGNAL_STUDIO_PRINTABLE.html"
         ],
         [
           "Sign Hunt Scenes",
-          "/lessons/number-sense-numeral-recognition-v0_1/SIGN_HUNT_SCENES.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-numeral-recognition-v0_1/SIGN_HUNT_SCENES.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/number-sense-numeral-recognition-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-numeral-recognition-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/number-sense-numeral-recognition-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-numeral-recognition-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 3
@@ -625,29 +625,29 @@
       "topic": "Comparing Sets",
       "title": "One-to-One Partner Laboratory: matched partners, unmatched remainder",
       "plan": "LESSON_01_ONE_TO_ONE_PARTNER_LABORATORY.md",
-      "url": "/lessons/comparing-sets-more-fewer-equal-v0_1/LESSON_01_ONE_TO_ONE_PARTNER_LABORATORY.html",
+      "url": "/stargrove-lesson-library-web/lessons/comparing-sets-more-fewer-equal-v0_1/LESSON_01_ONE_TO_ONE_PARTNER_LABORATORY.html",
       "sources": [
         "PK3.V.A.8",
         "PK4.V.A.8"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/comparing-sets-more-fewer-equal-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/comparing-sets-more-fewer-equal-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Comparison Scenes",
-          "/lessons/comparing-sets-more-fewer-equal-v0_1/ORIGINAL_COMPARISON_SCENES.html"
+          "/stargrove-lesson-library-web/lessons/comparing-sets-more-fewer-equal-v0_1/ORIGINAL_COMPARISON_SCENES.html"
         ],
         [
           "Stage Cards",
-          "/lessons/comparing-sets-more-fewer-equal-v0_1/ORIGINAL_STAGE_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/comparing-sets-more-fewer-equal-v0_1/ORIGINAL_STAGE_CARDS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/comparing-sets-more-fewer-equal-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/comparing-sets-more-fewer-equal-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/comparing-sets-more-fewer-equal-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/comparing-sets-more-fewer-equal-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 1
@@ -658,29 +658,29 @@
       "topic": "Sorting & Explaining Groups",
       "title": "Attribute Sensing and Safe Physical Sort",
       "plan": "LESSON_01_ATTRIBUTE_SENSING_PHYSICAL_SORT.md",
-      "url": "/lessons/attribute-sorting-and-group-explanations-v0_1/LESSON_01_ATTRIBUTE_SENSING_PHYSICAL_SORT.html",
+      "url": "/stargrove-lesson-library-web/lessons/attribute-sorting-and-group-explanations-v0_1/LESSON_01_ATTRIBUTE_SENSING_PHYSICAL_SORT.html",
       "sources": [
         "PK3.V.E.1",
         "PK4.V.E.1"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/attribute-sorting-and-group-explanations-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/attribute-sorting-and-group-explanations-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Rule Detective Cards",
-          "/lessons/attribute-sorting-and-group-explanations-v0_1/ORIGINAL_RULE_DETECTIVE_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/attribute-sorting-and-group-explanations-v0_1/ORIGINAL_RULE_DETECTIVE_CARDS.html"
         ],
         [
           "Sorting Mats",
-          "/lessons/attribute-sorting-and-group-explanations-v0_1/ORIGINAL_SORTING_MATS.html"
+          "/stargrove-lesson-library-web/lessons/attribute-sorting-and-group-explanations-v0_1/ORIGINAL_SORTING_MATS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/attribute-sorting-and-group-explanations-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/attribute-sorting-and-group-explanations-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/attribute-sorting-and-group-explanations-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/attribute-sorting-and-group-explanations-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 1
@@ -691,29 +691,29 @@
       "topic": "Comparing Sets",
       "title": "Layout Illusion Investigator: comparison unchanged by spacing or size",
       "plan": "LESSON_02_LAYOUT_ILLUSIONS.md",
-      "url": "/lessons/comparing-sets-more-fewer-equal-v0_1/LESSON_02_LAYOUT_ILLUSIONS.html",
+      "url": "/stargrove-lesson-library-web/lessons/comparing-sets-more-fewer-equal-v0_1/LESSON_02_LAYOUT_ILLUSIONS.html",
       "sources": [
         "PK3.V.A.8",
         "PK4.V.A.8"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/comparing-sets-more-fewer-equal-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/comparing-sets-more-fewer-equal-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Comparison Scenes",
-          "/lessons/comparing-sets-more-fewer-equal-v0_1/ORIGINAL_COMPARISON_SCENES.html"
+          "/stargrove-lesson-library-web/lessons/comparing-sets-more-fewer-equal-v0_1/ORIGINAL_COMPARISON_SCENES.html"
         ],
         [
           "Stage Cards",
-          "/lessons/comparing-sets-more-fewer-equal-v0_1/ORIGINAL_STAGE_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/comparing-sets-more-fewer-equal-v0_1/ORIGINAL_STAGE_CARDS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/comparing-sets-more-fewer-equal-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/comparing-sets-more-fewer-equal-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/comparing-sets-more-fewer-equal-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/comparing-sets-more-fewer-equal-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 2
@@ -724,29 +724,29 @@
       "topic": "Sorting & Explaining Groups",
       "title": "Same Objects, Different Valid Sorting Rules",
       "plan": "LESSON_02_RESORTING_WITH_NEW_RULE.md",
-      "url": "/lessons/attribute-sorting-and-group-explanations-v0_1/LESSON_02_RESORTING_WITH_NEW_RULE.html",
+      "url": "/stargrove-lesson-library-web/lessons/attribute-sorting-and-group-explanations-v0_1/LESSON_02_RESORTING_WITH_NEW_RULE.html",
       "sources": [
         "PK3.V.E.1",
         "PK4.V.E.1"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/attribute-sorting-and-group-explanations-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/attribute-sorting-and-group-explanations-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Rule Detective Cards",
-          "/lessons/attribute-sorting-and-group-explanations-v0_1/ORIGINAL_RULE_DETECTIVE_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/attribute-sorting-and-group-explanations-v0_1/ORIGINAL_RULE_DETECTIVE_CARDS.html"
         ],
         [
           "Sorting Mats",
-          "/lessons/attribute-sorting-and-group-explanations-v0_1/ORIGINAL_SORTING_MATS.html"
+          "/stargrove-lesson-library-web/lessons/attribute-sorting-and-group-explanations-v0_1/ORIGINAL_SORTING_MATS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/attribute-sorting-and-group-explanations-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/attribute-sorting-and-group-explanations-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/attribute-sorting-and-group-explanations-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/attribute-sorting-and-group-explanations-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 2
@@ -757,29 +757,29 @@
       "topic": "Comparing Sets",
       "title": "Build a Comparison, Test a Claim, and Repair",
       "plan": "LESSON_03_BUILD_AND_REPAIR.md",
-      "url": "/lessons/comparing-sets-more-fewer-equal-v0_1/LESSON_03_BUILD_AND_REPAIR.html",
+      "url": "/stargrove-lesson-library-web/lessons/comparing-sets-more-fewer-equal-v0_1/LESSON_03_BUILD_AND_REPAIR.html",
       "sources": [
         "PK3.V.A.8",
         "PK4.V.A.8"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/comparing-sets-more-fewer-equal-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/comparing-sets-more-fewer-equal-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Comparison Scenes",
-          "/lessons/comparing-sets-more-fewer-equal-v0_1/ORIGINAL_COMPARISON_SCENES.html"
+          "/stargrove-lesson-library-web/lessons/comparing-sets-more-fewer-equal-v0_1/ORIGINAL_COMPARISON_SCENES.html"
         ],
         [
           "Stage Cards",
-          "/lessons/comparing-sets-more-fewer-equal-v0_1/ORIGINAL_STAGE_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/comparing-sets-more-fewer-equal-v0_1/ORIGINAL_STAGE_CARDS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/comparing-sets-more-fewer-equal-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/comparing-sets-more-fewer-equal-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/comparing-sets-more-fewer-equal-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/comparing-sets-more-fewer-equal-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 3
@@ -790,29 +790,29 @@
       "topic": "Sorting & Explaining Groups",
       "title": "Secret Sorting Rule and Blind Listener Explanation",
       "plan": "LESSON_03_GROUP_RULE_DETECTIVE.md",
-      "url": "/lessons/attribute-sorting-and-group-explanations-v0_1/LESSON_03_GROUP_RULE_DETECTIVE.html",
+      "url": "/stargrove-lesson-library-web/lessons/attribute-sorting-and-group-explanations-v0_1/LESSON_03_GROUP_RULE_DETECTIVE.html",
       "sources": [
         "PK3.V.E.1",
         "PK4.V.E.1"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/attribute-sorting-and-group-explanations-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/attribute-sorting-and-group-explanations-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Rule Detective Cards",
-          "/lessons/attribute-sorting-and-group-explanations-v0_1/ORIGINAL_RULE_DETECTIVE_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/attribute-sorting-and-group-explanations-v0_1/ORIGINAL_RULE_DETECTIVE_CARDS.html"
         ],
         [
           "Sorting Mats",
-          "/lessons/attribute-sorting-and-group-explanations-v0_1/ORIGINAL_SORTING_MATS.html"
+          "/stargrove-lesson-library-web/lessons/attribute-sorting-and-group-explanations-v0_1/ORIGINAL_SORTING_MATS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/attribute-sorting-and-group-explanations-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/attribute-sorting-and-group-explanations-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/attribute-sorting-and-group-explanations-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/attribute-sorting-and-group-explanations-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 3
@@ -823,29 +823,29 @@
       "topic": "Data & Graphs",
       "title": "Authentic Cooperative Floor Graph (real participants, genuine marks)",
       "plan": "LESSON_01_LIVE_COOPERATIVE_FLOOR_GRAPH.md",
-      "url": "/lessons/authentic-group-data-and-graphs-v0_1/LESSON_01_LIVE_COOPERATIVE_FLOOR_GRAPH.html",
+      "url": "/stargrove-lesson-library-web/lessons/authentic-group-data-and-graphs-v0_1/LESSON_01_LIVE_COOPERATIVE_FLOOR_GRAPH.html",
       "sources": [
         "PK3.V.E.2",
         "PK4.V.E.2"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/authentic-group-data-and-graphs-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/authentic-group-data-and-graphs-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Data Investigation Cards",
-          "/lessons/authentic-group-data-and-graphs-v0_1/ORIGINAL_DATA_INVESTIGATION_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/authentic-group-data-and-graphs-v0_1/ORIGINAL_DATA_INVESTIGATION_CARDS.html"
         ],
         [
           "Group Graph Mats",
-          "/lessons/authentic-group-data-and-graphs-v0_1/ORIGINAL_GROUP_GRAPH_MATS.html"
+          "/stargrove-lesson-library-web/lessons/authentic-group-data-and-graphs-v0_1/ORIGINAL_GROUP_GRAPH_MATS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/authentic-group-data-and-graphs-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/authentic-group-data-and-graphs-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/authentic-group-data-and-graphs-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/authentic-group-data-and-graphs-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 1
@@ -856,29 +856,29 @@
       "topic": "Data & Graphs",
       "title": "Investigator's Physical Object Census and Picture Graph",
       "plan": "LESSON_02_OBJECT_CENSUS.md",
-      "url": "/lessons/authentic-group-data-and-graphs-v0_1/LESSON_02_OBJECT_CENSUS.html",
+      "url": "/stargrove-lesson-library-web/lessons/authentic-group-data-and-graphs-v0_1/LESSON_02_OBJECT_CENSUS.html",
       "sources": [
         "PK3.V.E.2",
         "PK4.V.E.2"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/authentic-group-data-and-graphs-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/authentic-group-data-and-graphs-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Data Investigation Cards",
-          "/lessons/authentic-group-data-and-graphs-v0_1/ORIGINAL_DATA_INVESTIGATION_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/authentic-group-data-and-graphs-v0_1/ORIGINAL_DATA_INVESTIGATION_CARDS.html"
         ],
         [
           "Group Graph Mats",
-          "/lessons/authentic-group-data-and-graphs-v0_1/ORIGINAL_GROUP_GRAPH_MATS.html"
+          "/stargrove-lesson-library-web/lessons/authentic-group-data-and-graphs-v0_1/ORIGINAL_GROUP_GRAPH_MATS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/authentic-group-data-and-graphs-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/authentic-group-data-and-graphs-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/authentic-group-data-and-graphs-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/authentic-group-data-and-graphs-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 2
@@ -889,29 +889,29 @@
       "topic": "Data & Graphs",
       "title": "Data-Source Detective: Optional Polls, Missing Marks, Honest Charts",
       "plan": "LESSON_03_SURVEY_PROVENANCE.md",
-      "url": "/lessons/authentic-group-data-and-graphs-v0_1/LESSON_03_SURVEY_PROVENANCE.html",
+      "url": "/stargrove-lesson-library-web/lessons/authentic-group-data-and-graphs-v0_1/LESSON_03_SURVEY_PROVENANCE.html",
       "sources": [
         "PK3.V.E.2",
         "PK4.V.E.2"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/authentic-group-data-and-graphs-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/authentic-group-data-and-graphs-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Data Investigation Cards",
-          "/lessons/authentic-group-data-and-graphs-v0_1/ORIGINAL_DATA_INVESTIGATION_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/authentic-group-data-and-graphs-v0_1/ORIGINAL_DATA_INVESTIGATION_CARDS.html"
         ],
         [
           "Group Graph Mats",
-          "/lessons/authentic-group-data-and-graphs-v0_1/ORIGINAL_GROUP_GRAPH_MATS.html"
+          "/stargrove-lesson-library-web/lessons/authentic-group-data-and-graphs-v0_1/ORIGINAL_GROUP_GRAPH_MATS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/authentic-group-data-and-graphs-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/authentic-group-data-and-graphs-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/authentic-group-data-and-graphs-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/authentic-group-data-and-graphs-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 3
@@ -922,29 +922,29 @@
       "topic": "Capacity & Inside Space",
       "title": "Inside-Space Discovery Laboratory (hollow-space / occupancy mechanism)",
       "plan": "LESSON_01_HOLLOW_INTERIOR_CAPACITY_DISCOVERY.md",
-      "url": "/lessons/capacity-inside-space-and-comparison-v0_1/LESSON_01_HOLLOW_INTERIOR_CAPACITY_DISCOVERY.html",
+      "url": "/stargrove-lesson-library-web/lessons/capacity-inside-space-and-comparison-v0_1/LESSON_01_HOLLOW_INTERIOR_CAPACITY_DISCOVERY.html",
       "sources": [
         "PK3.V.D.2",
         "PK4.V.D.2"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/capacity-inside-space-and-comparison-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/capacity-inside-space-and-comparison-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Capacity Cases",
-          "/lessons/capacity-inside-space-and-comparison-v0_1/ORIGINAL_CAPACITY_CASES.html"
+          "/stargrove-lesson-library-web/lessons/capacity-inside-space-and-comparison-v0_1/ORIGINAL_CAPACITY_CASES.html"
         ],
         [
           "Inside Space Mats",
-          "/lessons/capacity-inside-space-and-comparison-v0_1/ORIGINAL_INSIDE_SPACE_MATS.html"
+          "/stargrove-lesson-library-web/lessons/capacity-inside-space-and-comparison-v0_1/ORIGINAL_INSIDE_SPACE_MATS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/capacity-inside-space-and-comparison-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/capacity-inside-space-and-comparison-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/capacity-inside-space-and-comparison-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/capacity-inside-space-and-comparison-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 1
@@ -955,29 +955,29 @@
       "topic": "Capacity & Inside Space",
       "title": "Constant-Unit Transfer Laboratory (controlled physical evidence)",
       "plan": "LESSON_02_COMMON_FILL_TRANSFER.md",
-      "url": "/lessons/capacity-inside-space-and-comparison-v0_1/LESSON_02_COMMON_FILL_TRANSFER.html",
+      "url": "/stargrove-lesson-library-web/lessons/capacity-inside-space-and-comparison-v0_1/LESSON_02_COMMON_FILL_TRANSFER.html",
       "sources": [
         "PK3.V.D.2",
         "PK4.V.D.2"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/capacity-inside-space-and-comparison-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/capacity-inside-space-and-comparison-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Capacity Cases",
-          "/lessons/capacity-inside-space-and-comparison-v0_1/ORIGINAL_CAPACITY_CASES.html"
+          "/stargrove-lesson-library-web/lessons/capacity-inside-space-and-comparison-v0_1/ORIGINAL_CAPACITY_CASES.html"
         ],
         [
           "Inside Space Mats",
-          "/lessons/capacity-inside-space-and-comparison-v0_1/ORIGINAL_INSIDE_SPACE_MATS.html"
+          "/stargrove-lesson-library-web/lessons/capacity-inside-space-and-comparison-v0_1/ORIGINAL_INSIDE_SPACE_MATS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/capacity-inside-space-and-comparison-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/capacity-inside-space-and-comparison-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/capacity-inside-space-and-comparison-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/capacity-inside-space-and-comparison-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 2
@@ -988,29 +988,29 @@
       "topic": "Capacity & Inside Space",
       "title": "Capacity Claim Detective (prediction, misconception test, evidence repair)",
       "plan": "LESSON_03_PREDICTION_AND_COUNTEREXAMPLES.md",
-      "url": "/lessons/capacity-inside-space-and-comparison-v0_1/LESSON_03_PREDICTION_AND_COUNTEREXAMPLES.html",
+      "url": "/stargrove-lesson-library-web/lessons/capacity-inside-space-and-comparison-v0_1/LESSON_03_PREDICTION_AND_COUNTEREXAMPLES.html",
       "sources": [
         "PK3.V.D.2",
         "PK4.V.D.2"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/capacity-inside-space-and-comparison-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/capacity-inside-space-and-comparison-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Capacity Cases",
-          "/lessons/capacity-inside-space-and-comparison-v0_1/ORIGINAL_CAPACITY_CASES.html"
+          "/stargrove-lesson-library-web/lessons/capacity-inside-space-and-comparison-v0_1/ORIGINAL_CAPACITY_CASES.html"
         ],
         [
           "Inside Space Mats",
-          "/lessons/capacity-inside-space-and-comparison-v0_1/ORIGINAL_INSIDE_SPACE_MATS.html"
+          "/stargrove-lesson-library-web/lessons/capacity-inside-space-and-comparison-v0_1/ORIGINAL_INSIDE_SPACE_MATS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/capacity-inside-space-and-comparison-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/capacity-inside-space-and-comparison-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/capacity-inside-space-and-comparison-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/capacity-inside-space-and-comparison-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 3
@@ -1021,29 +1021,29 @@
       "topic": "Questions & Responses to Books",
       "title": "The Wonder Workshop: Child-Origin Book Questions",
       "plan": "LESSON_01_GARDEN_SEED_WONDER_WORKSHOP.md",
-      "url": "/lessons/book-question-asking-and-text-relevant-responding-v0_1/LESSON_01_GARDEN_SEED_WONDER_WORKSHOP.html",
+      "url": "/stargrove-lesson-library-web/lessons/book-question-asking-and-text-relevant-responding-v0_1/LESSON_01_GARDEN_SEED_WONDER_WORKSHOP.html",
       "sources": [
         "PK3.III.D.3",
         "PK4.III.D.3"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/book-question-asking-and-text-relevant-responding-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/book-question-asking-and-text-relevant-responding-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Book Question And Response Cards",
-          "/lessons/book-question-asking-and-text-relevant-responding-v0_1/ORIGINAL_BOOK_QUESTION_AND_RESPONSE_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/book-question-asking-and-text-relevant-responding-v0_1/ORIGINAL_BOOK_QUESTION_AND_RESPONSE_CARDS.html"
         ],
         [
           "Book Question Response Observations",
-          "/lessons/book-question-asking-and-text-relevant-responding-v0_1/ORIGINAL_BOOK_QUESTION_RESPONSE_OBSERVATIONS.html"
+          "/stargrove-lesson-library-web/lessons/book-question-asking-and-text-relevant-responding-v0_1/ORIGINAL_BOOK_QUESTION_RESPONSE_OBSERVATIONS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/book-question-asking-and-text-relevant-responding-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/book-question-asking-and-text-relevant-responding-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/book-question-asking-and-text-relevant-responding-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/book-question-asking-and-text-relevant-responding-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 1
@@ -1054,29 +1054,29 @@
       "topic": "Questions & Responses to Books",
       "title": "Toy Duck Carpet Bridge who/where/how book conversation",
       "plan": "LESSON_02_DUCK_BRIDGE_QUESTION_EXCHANGE.md",
-      "url": "/lessons/book-question-asking-and-text-relevant-responding-v0_1/LESSON_02_DUCK_BRIDGE_QUESTION_EXCHANGE.html",
+      "url": "/stargrove-lesson-library-web/lessons/book-question-asking-and-text-relevant-responding-v0_1/LESSON_02_DUCK_BRIDGE_QUESTION_EXCHANGE.html",
       "sources": [
         "PK3.III.D.3",
         "PK4.III.D.3"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/book-question-asking-and-text-relevant-responding-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/book-question-asking-and-text-relevant-responding-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Book Question And Response Cards",
-          "/lessons/book-question-asking-and-text-relevant-responding-v0_1/ORIGINAL_BOOK_QUESTION_AND_RESPONSE_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/book-question-asking-and-text-relevant-responding-v0_1/ORIGINAL_BOOK_QUESTION_AND_RESPONSE_CARDS.html"
         ],
         [
           "Book Question Response Observations",
-          "/lessons/book-question-asking-and-text-relevant-responding-v0_1/ORIGINAL_BOOK_QUESTION_RESPONSE_OBSERVATIONS.html"
+          "/stargrove-lesson-library-web/lessons/book-question-asking-and-text-relevant-responding-v0_1/ORIGINAL_BOOK_QUESTION_RESPONSE_OBSERVATIONS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/book-question-asking-and-text-relevant-responding-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/book-question-asking-and-text-relevant-responding-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/book-question-asking-and-text-relevant-responding-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/book-question-asking-and-text-relevant-responding-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 2
@@ -1087,29 +1087,29 @@
       "topic": "Questions & Responses to Books",
       "title": "After the Rain actual book inquiry about clouds, puddles and evaporation",
       "plan": "LESSON_03_RAIN_INFORMATIONAL_TEXT_QUESTION_TRANSFER.md",
-      "url": "/lessons/book-question-asking-and-text-relevant-responding-v0_1/LESSON_03_RAIN_INFORMATIONAL_TEXT_QUESTION_TRANSFER.html",
+      "url": "/stargrove-lesson-library-web/lessons/book-question-asking-and-text-relevant-responding-v0_1/LESSON_03_RAIN_INFORMATIONAL_TEXT_QUESTION_TRANSFER.html",
       "sources": [
         "PK3.III.D.3",
         "PK4.III.D.3"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/book-question-asking-and-text-relevant-responding-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/book-question-asking-and-text-relevant-responding-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Book Question And Response Cards",
-          "/lessons/book-question-asking-and-text-relevant-responding-v0_1/ORIGINAL_BOOK_QUESTION_AND_RESPONSE_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/book-question-asking-and-text-relevant-responding-v0_1/ORIGINAL_BOOK_QUESTION_AND_RESPONSE_CARDS.html"
         ],
         [
           "Book Question Response Observations",
-          "/lessons/book-question-asking-and-text-relevant-responding-v0_1/ORIGINAL_BOOK_QUESTION_RESPONSE_OBSERVATIONS.html"
+          "/stargrove-lesson-library-web/lessons/book-question-asking-and-text-relevant-responding-v0_1/ORIGINAL_BOOK_QUESTION_RESPONSE_OBSERVATIONS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/book-question-asking-and-text-relevant-responding-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/book-question-asking-and-text-relevant-responding-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/book-question-asking-and-text-relevant-responding-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/book-question-asking-and-text-relevant-responding-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 3
@@ -1120,33 +1120,33 @@
       "topic": "Joining Quantities",
       "title": "MT-PK-04 / The Garden Gathering — complete ORIGINAL teaching pilot v0.1",
       "plan": "LESSON_01_REAL_GARDEN_SET_JOINING.md",
-      "url": "/lessons/number-sense-joining-quantities-v0_1/LESSON_01_REAL_GARDEN_SET_JOINING.html",
+      "url": "/stargrove-lesson-library-web/lessons/number-sense-joining-quantities-v0_1/LESSON_01_REAL_GARDEN_SET_JOINING.html",
       "sources": [
         "PK3.V.B.1",
         "PK4.V.B.1"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/number-sense-joining-quantities-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/number-sense-joining-quantities-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Garden Kit",
-          "/lessons/number-sense-joining-quantities-v0_1/ORIGINAL_GARDEN_KIT.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-joining-quantities-v0_1/ORIGINAL_GARDEN_KIT.html"
         ],
         [
           "Joining Stage Mats",
-          "/lessons/number-sense-joining-quantities-v0_1/ORIGINAL_JOINING_STAGE_MATS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-joining-quantities-v0_1/ORIGINAL_JOINING_STAGE_MATS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/number-sense-joining-quantities-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-joining-quantities-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Garden Assessment",
-          "/lessons/number-sense-joining-quantities-v0_1/ORIGINAL_GARDEN_ASSESSMENT.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-joining-quantities-v0_1/ORIGINAL_GARDEN_ASSESSMENT.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/number-sense-joining-quantities-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-joining-quantities-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 1
@@ -1157,33 +1157,33 @@
       "topic": "Joining Quantities",
       "title": "Before/After Picture Detectives: what actually changed?",
       "plan": "LESSON_02_BEFORE_AFTER_PICTURE_DETECTIVES.md",
-      "url": "/lessons/number-sense-joining-quantities-v0_1/LESSON_02_BEFORE_AFTER_PICTURE_DETECTIVES.html",
+      "url": "/stargrove-lesson-library-web/lessons/number-sense-joining-quantities-v0_1/LESSON_02_BEFORE_AFTER_PICTURE_DETECTIVES.html",
       "sources": [
         "PK3.V.B.1",
         "PK4.V.B.1"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/number-sense-joining-quantities-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/number-sense-joining-quantities-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Garden Kit",
-          "/lessons/number-sense-joining-quantities-v0_1/ORIGINAL_GARDEN_KIT.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-joining-quantities-v0_1/ORIGINAL_GARDEN_KIT.html"
         ],
         [
           "Joining Stage Mats",
-          "/lessons/number-sense-joining-quantities-v0_1/ORIGINAL_JOINING_STAGE_MATS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-joining-quantities-v0_1/ORIGINAL_JOINING_STAGE_MATS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/number-sense-joining-quantities-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-joining-quantities-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Garden Assessment",
-          "/lessons/number-sense-joining-quantities-v0_1/ORIGINAL_GARDEN_ASSESSMENT.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-joining-quantities-v0_1/ORIGINAL_GARDEN_ASSESSMENT.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/number-sense-joining-quantities-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-joining-quantities-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 2
@@ -1194,33 +1194,33 @@
       "topic": "Joining Quantities",
       "title": "Tell It and Act It: children author their own joining mini-dramas",
       "plan": "LESSON_03_TELL_AND_ACT_JOINING.md",
-      "url": "/lessons/number-sense-joining-quantities-v0_1/LESSON_03_TELL_AND_ACT_JOINING.html",
+      "url": "/stargrove-lesson-library-web/lessons/number-sense-joining-quantities-v0_1/LESSON_03_TELL_AND_ACT_JOINING.html",
       "sources": [
         "PK3.V.B.1",
         "PK4.V.B.1"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/number-sense-joining-quantities-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/number-sense-joining-quantities-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Garden Kit",
-          "/lessons/number-sense-joining-quantities-v0_1/ORIGINAL_GARDEN_KIT.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-joining-quantities-v0_1/ORIGINAL_GARDEN_KIT.html"
         ],
         [
           "Joining Stage Mats",
-          "/lessons/number-sense-joining-quantities-v0_1/ORIGINAL_JOINING_STAGE_MATS.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-joining-quantities-v0_1/ORIGINAL_JOINING_STAGE_MATS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/number-sense-joining-quantities-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-joining-quantities-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Garden Assessment",
-          "/lessons/number-sense-joining-quantities-v0_1/ORIGINAL_GARDEN_ASSESSMENT.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-joining-quantities-v0_1/ORIGINAL_GARDEN_ASSESSMENT.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/number-sense-joining-quantities-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/number-sense-joining-quantities-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 3
@@ -1231,29 +1231,29 @@
       "topic": "Movement Sequences",
       "title": "IX.A.2 original complete method — genuine greeting sequence",
       "plan": "LESSON_01_GENTLE_REAL_BODY_MOVEMENT_SEQUENCE.md",
-      "url": "/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/LESSON_01_GENTLE_REAL_BODY_MOVEMENT_SEQUENCE.html",
+      "url": "/stargrove-lesson-library-web/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/LESSON_01_GENTLE_REAL_BODY_MOVEMENT_SEQUENCE.html",
       "sources": [
         "PK3.IX.A.2",
         "PK4.IX.A.2"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Real Movement Task Source Observations",
-          "/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/ORIGINAL_REAL_MOVEMENT_TASK_SOURCE_OBSERVATIONS.html"
+          "/stargrove-lesson-library-web/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/ORIGINAL_REAL_MOVEMENT_TASK_SOURCE_OBSERVATIONS.html"
         ],
         [
           "Safe Real Movement Sequence Stations",
-          "/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/ORIGINAL_SAFE_REAL_MOVEMENT_SEQUENCE_STATIONS.html"
+          "/stargrove-lesson-library-web/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/ORIGINAL_SAFE_REAL_MOVEMENT_SEQUENCE_STATIONS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 1
@@ -1264,29 +1264,29 @@
       "topic": "Movement Sequences",
       "title": "IX.A.2 complete original method — move large soft cloth to nearby resting place",
       "plan": "LESSON_02_ORIGINAL_SOFT_CLOTH_RESTING_SEQUENCE.md",
-      "url": "/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/LESSON_02_ORIGINAL_SOFT_CLOTH_RESTING_SEQUENCE.html",
+      "url": "/stargrove-lesson-library-web/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/LESSON_02_ORIGINAL_SOFT_CLOTH_RESTING_SEQUENCE.html",
       "sources": [
         "PK3.IX.A.2",
         "PK4.IX.A.2"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Real Movement Task Source Observations",
-          "/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/ORIGINAL_REAL_MOVEMENT_TASK_SOURCE_OBSERVATIONS.html"
+          "/stargrove-lesson-library-web/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/ORIGINAL_REAL_MOVEMENT_TASK_SOURCE_OBSERVATIONS.html"
         ],
         [
           "Safe Real Movement Sequence Stations",
-          "/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/ORIGINAL_SAFE_REAL_MOVEMENT_SEQUENCE_STATIONS.html"
+          "/stargrove-lesson-library-web/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/ORIGINAL_SAFE_REAL_MOVEMENT_SEQUENCE_STATIONS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 2
@@ -1297,29 +1297,29 @@
       "topic": "Movement Sequences",
       "title": "IX.A.2 complete original method — fictional paper message delivery with real bodily movement",
       "plan": "LESSON_03_ORIGINAL_PRETEND_MESSAGE_DELIVERY.md",
-      "url": "/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/LESSON_03_ORIGINAL_PRETEND_MESSAGE_DELIVERY.html",
+      "url": "/stargrove-lesson-library-web/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/LESSON_03_ORIGINAL_PRETEND_MESSAGE_DELIVERY.html",
       "sources": [
         "PK3.IX.A.2",
         "PK4.IX.A.2"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Real Movement Task Source Observations",
-          "/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/ORIGINAL_REAL_MOVEMENT_TASK_SOURCE_OBSERVATIONS.html"
+          "/stargrove-lesson-library-web/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/ORIGINAL_REAL_MOVEMENT_TASK_SOURCE_OBSERVATIONS.html"
         ],
         [
           "Safe Real Movement Sequence Stations",
-          "/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/ORIGINAL_SAFE_REAL_MOVEMENT_SEQUENCE_STATIONS.html"
+          "/stargrove-lesson-library-web/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/ORIGINAL_SAFE_REAL_MOVEMENT_SEQUENCE_STATIONS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 3
@@ -1330,29 +1330,29 @@
       "topic": "Friendship & Peer Interaction",
       "title": "Child-selected real willing-peer play",
       "plan": "LESSON_01_CHILD_SELECTED_REAL_PEER_PLAY.md",
-      "url": "/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/LESSON_01_CHILD_SELECTED_REAL_PEER_PLAY.html",
+      "url": "/stargrove-lesson-library-web/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/LESSON_01_CHILD_SELECTED_REAL_PEER_PLAY.html",
       "sources": [
         "PK3.I.C.7",
         "PK4.I.C.7"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Authentic Peer Preference Records",
-          "/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/ORIGINAL_AUTHENTIC_PEER_PREFERENCE_RECORDS.html"
+          "/stargrove-lesson-library-web/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/ORIGINAL_AUTHENTIC_PEER_PREFERENCE_RECORDS.html"
         ],
         [
           "Peer Connection Choice Mats",
-          "/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/ORIGINAL_PEER_CONNECTION_CHOICE_MATS.html"
+          "/stargrove-lesson-library-web/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/ORIGINAL_PEER_CONNECTION_CHOICE_MATS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 1
@@ -1363,29 +1363,29 @@
       "topic": "Friendship & Peer Interaction",
       "title": "Authentic repeated safe shared interests with real willing peers",
       "plan": "LESSON_02_SHARED_INTEREST_AND_REVISITING_PEERS.md",
-      "url": "/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/LESSON_02_SHARED_INTEREST_AND_REVISITING_PEERS.html",
+      "url": "/stargrove-lesson-library-web/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/LESSON_02_SHARED_INTEREST_AND_REVISITING_PEERS.html",
       "sources": [
         "PK3.I.C.7",
         "PK4.I.C.7"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Authentic Peer Preference Records",
-          "/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/ORIGINAL_AUTHENTIC_PEER_PREFERENCE_RECORDS.html"
+          "/stargrove-lesson-library-web/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/ORIGINAL_AUTHENTIC_PEER_PREFERENCE_RECORDS.html"
         ],
         [
           "Peer Connection Choice Mats",
-          "/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/ORIGINAL_PEER_CONNECTION_CHOICE_MATS.html"
+          "/stargrove-lesson-library-web/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/ORIGINAL_PEER_CONNECTION_CHOICE_MATS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 2
@@ -1396,29 +1396,29 @@
       "topic": "Friendship & Peer Interaction",
       "title": "Respectful peer preference, nonexclusive friendships and inclusion",
       "plan": "LESSON_03_FRIENDSHIP_CHOICE_AND_INCLUSION.md",
-      "url": "/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/LESSON_03_FRIENDSHIP_CHOICE_AND_INCLUSION.html",
+      "url": "/stargrove-lesson-library-web/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/LESSON_03_FRIENDSHIP_CHOICE_AND_INCLUSION.html",
       "sources": [
         "PK3.I.C.7",
         "PK4.I.C.7"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Authentic Peer Preference Records",
-          "/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/ORIGINAL_AUTHENTIC_PEER_PREFERENCE_RECORDS.html"
+          "/stargrove-lesson-library-web/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/ORIGINAL_AUTHENTIC_PEER_PREFERENCE_RECORDS.html"
         ],
         [
           "Peer Connection Choice Mats",
-          "/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/ORIGINAL_PEER_CONNECTION_CHOICE_MATS.html"
+          "/stargrove-lesson-library-web/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/ORIGINAL_PEER_CONNECTION_CHOICE_MATS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 3
@@ -1429,29 +1429,29 @@
       "topic": "Authentic Conversations",
       "title": "Genuine Shared-Art Co-Decision and Voluntary Turn Signals",
       "plan": "LESSON_01_LIVE_SHARED_ART_CONVERSATION.md",
-      "url": "/lessons/authentic-social-conversation-cues-v0_1/LESSON_01_LIVE_SHARED_ART_CONVERSATION.html",
+      "url": "/stargrove-lesson-library-web/lessons/authentic-social-conversation-cues-v0_1/LESSON_01_LIVE_SHARED_ART_CONVERSATION.html",
       "sources": [
         "PK3.II.B.2",
         "PK4.II.B.2"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/authentic-social-conversation-cues-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/authentic-social-conversation-cues-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Conversation Cue Cards",
-          "/lessons/authentic-social-conversation-cues-v0_1/ORIGINAL_CONVERSATION_CUE_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/authentic-social-conversation-cues-v0_1/ORIGINAL_CONVERSATION_CUE_CARDS.html"
         ],
         [
           "Partner Observation",
-          "/lessons/authentic-social-conversation-cues-v0_1/ORIGINAL_PARTNER_OBSERVATION.html"
+          "/stargrove-lesson-library-web/lessons/authentic-social-conversation-cues-v0_1/ORIGINAL_PARTNER_OBSERVATION.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/authentic-social-conversation-cues-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/authentic-social-conversation-cues-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/authentic-social-conversation-cues-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/authentic-social-conversation-cues-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 1
@@ -1462,29 +1462,29 @@
       "topic": "Authentic Conversations",
       "title": "Actual Partner-Only Information Gap and Listener Confirmation",
       "plan": "LESSON_02_SHARED_INFORMATION.md",
-      "url": "/lessons/authentic-social-conversation-cues-v0_1/LESSON_02_SHARED_INFORMATION.html",
+      "url": "/stargrove-lesson-library-web/lessons/authentic-social-conversation-cues-v0_1/LESSON_02_SHARED_INFORMATION.html",
       "sources": [
         "PK3.II.B.2",
         "PK4.II.B.2"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/authentic-social-conversation-cues-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/authentic-social-conversation-cues-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Conversation Cue Cards",
-          "/lessons/authentic-social-conversation-cues-v0_1/ORIGINAL_CONVERSATION_CUE_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/authentic-social-conversation-cues-v0_1/ORIGINAL_CONVERSATION_CUE_CARDS.html"
         ],
         [
           "Partner Observation",
-          "/lessons/authentic-social-conversation-cues-v0_1/ORIGINAL_PARTNER_OBSERVATION.html"
+          "/stargrove-lesson-library-web/lessons/authentic-social-conversation-cues-v0_1/ORIGINAL_PARTNER_OBSERVATION.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/authentic-social-conversation-cues-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/authentic-social-conversation-cues-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/authentic-social-conversation-cues-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/authentic-social-conversation-cues-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 2
@@ -1495,29 +1495,29 @@
       "topic": "Authentic Conversations",
       "title": "Conversational Repair, Different Ideas and Respectful Stop Signals",
       "plan": "LESSON_03_REPAIR_AND_BOUNDARIES.md",
-      "url": "/lessons/authentic-social-conversation-cues-v0_1/LESSON_03_REPAIR_AND_BOUNDARIES.html",
+      "url": "/stargrove-lesson-library-web/lessons/authentic-social-conversation-cues-v0_1/LESSON_03_REPAIR_AND_BOUNDARIES.html",
       "sources": [
         "PK3.II.B.2",
         "PK4.II.B.2"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/authentic-social-conversation-cues-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/authentic-social-conversation-cues-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Conversation Cue Cards",
-          "/lessons/authentic-social-conversation-cues-v0_1/ORIGINAL_CONVERSATION_CUE_CARDS.html"
+          "/stargrove-lesson-library-web/lessons/authentic-social-conversation-cues-v0_1/ORIGINAL_CONVERSATION_CUE_CARDS.html"
         ],
         [
           "Partner Observation",
-          "/lessons/authentic-social-conversation-cues-v0_1/ORIGINAL_PARTNER_OBSERVATION.html"
+          "/stargrove-lesson-library-web/lessons/authentic-social-conversation-cues-v0_1/ORIGINAL_PARTNER_OBSERVATION.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/authentic-social-conversation-cues-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/authentic-social-conversation-cues-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/authentic-social-conversation-cues-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/authentic-social-conversation-cues-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 3
@@ -1528,29 +1528,29 @@
       "topic": "Locomotor Skills & Balance",
       "title": "The Safe Movement Meadow: Real Run, Ground Jump and Isolated Balance",
       "plan": "LESSON_01_REAL_SAFE_RUN_JUMP_AND_BALANCE.md",
-      "url": "/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/LESSON_01_REAL_SAFE_RUN_JUMP_AND_BALANCE.html",
+      "url": "/stargrove-lesson-library-web/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/LESSON_01_REAL_SAFE_RUN_JUMP_AND_BALANCE.html",
       "sources": [
         "PK3.IX.A.1",
         "PK4.IX.A.1"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Basic Skills And Isolated Balance Source Observations",
-          "/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/ORIGINAL_BASIC_SKILLS_AND_ISOLATED_BALANCE_SOURCE_OBSERVATIONS.html"
+          "/stargrove-lesson-library-web/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/ORIGINAL_BASIC_SKILLS_AND_ISOLATED_BALANCE_SOURCE_OBSERVATIONS.html"
         ],
         [
           "Real Basic Skills And Isolated Balance Guides",
-          "/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/ORIGINAL_REAL_BASIC_SKILLS_AND_ISOLATED_BALANCE_GUIDES.html"
+          "/stargrove-lesson-library-web/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/ORIGINAL_REAL_BASIC_SKILLS_AND_ISOLATED_BALANCE_GUIDES.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 1
@@ -1561,29 +1561,29 @@
       "topic": "Locomotor Skills & Balance",
       "title": "The Little Lookout: Genuine Safe Low Climbing and Isolated Balance",
       "plan": "LESSON_02_SAFE_LOW_CLIMB_AND_BALANCE.md",
-      "url": "/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/LESSON_02_SAFE_LOW_CLIMB_AND_BALANCE.html",
+      "url": "/stargrove-lesson-library-web/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/LESSON_02_SAFE_LOW_CLIMB_AND_BALANCE.html",
       "sources": [
         "PK3.IX.A.1",
         "PK4.IX.A.1"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Basic Skills And Isolated Balance Source Observations",
-          "/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/ORIGINAL_BASIC_SKILLS_AND_ISOLATED_BALANCE_SOURCE_OBSERVATIONS.html"
+          "/stargrove-lesson-library-web/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/ORIGINAL_BASIC_SKILLS_AND_ISOLATED_BALANCE_SOURCE_OBSERVATIONS.html"
         ],
         [
           "Real Basic Skills And Isolated Balance Guides",
-          "/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/ORIGINAL_REAL_BASIC_SKILLS_AND_ISOLATED_BALANCE_GUIDES.html"
+          "/stargrove-lesson-library-web/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/ORIGINAL_REAL_BASIC_SKILLS_AND_ISOLATED_BALANCE_GUIDES.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 2
@@ -1594,29 +1594,29 @@
       "topic": "Locomotor Skills & Balance",
       "title": "The Gentle Garden Wheel: Real Child-Driven Pedaling and Isolated Balance",
       "plan": "LESSON_03_REAL_PEDALING_AND_ISOLATED_BALANCE.md",
-      "url": "/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/LESSON_03_REAL_PEDALING_AND_ISOLATED_BALANCE.html",
+      "url": "/stargrove-lesson-library-web/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/LESSON_03_REAL_PEDALING_AND_ISOLATED_BALANCE.html",
       "sources": [
         "PK3.IX.A.1",
         "PK4.IX.A.1"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Basic Skills And Isolated Balance Source Observations",
-          "/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/ORIGINAL_BASIC_SKILLS_AND_ISOLATED_BALANCE_SOURCE_OBSERVATIONS.html"
+          "/stargrove-lesson-library-web/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/ORIGINAL_BASIC_SKILLS_AND_ISOLATED_BALANCE_SOURCE_OBSERVATIONS.html"
         ],
         [
           "Real Basic Skills And Isolated Balance Guides",
-          "/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/ORIGINAL_REAL_BASIC_SKILLS_AND_ISOLATED_BALANCE_GUIDES.html"
+          "/stargrove-lesson-library-web/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/ORIGINAL_REAL_BASIC_SKILLS_AND_ISOLATED_BALANCE_GUIDES.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 3
@@ -1627,29 +1627,29 @@
       "topic": "Co-Regulation & Self-Regulation",
       "title": "A Place for Pause: Genuine Co-Regulation, Help and Safe Continuation",
       "plan": "LESSON_01_VOLUNTARY_PAUSE_AND_HELP.md",
-      "url": "/lessons/behavior-co-regulation-and-self-regulation-v0_1/LESSON_01_VOLUNTARY_PAUSE_AND_HELP.html",
+      "url": "/stargrove-lesson-library-web/lessons/behavior-co-regulation-and-self-regulation-v0_1/LESSON_01_VOLUNTARY_PAUSE_AND_HELP.html",
       "sources": [
         "PK3.I.B.1.c",
         "PK4.I.B.1.c"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/behavior-co-regulation-and-self-regulation-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/behavior-co-regulation-and-self-regulation-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Regulation Choice Mats",
-          "/lessons/behavior-co-regulation-and-self-regulation-v0_1/ORIGINAL_REGULATION_CHOICE_MATS.html"
+          "/stargrove-lesson-library-web/lessons/behavior-co-regulation-and-self-regulation-v0_1/ORIGINAL_REGULATION_CHOICE_MATS.html"
         ],
         [
           "Regulation Observer Records",
-          "/lessons/behavior-co-regulation-and-self-regulation-v0_1/ORIGINAL_REGULATION_OBSERVER_RECORDS.html"
+          "/stargrove-lesson-library-web/lessons/behavior-co-regulation-and-self-regulation-v0_1/ORIGINAL_REGULATION_OBSERVER_RECORDS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/behavior-co-regulation-and-self-regulation-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/behavior-co-regulation-and-self-regulation-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/behavior-co-regulation-and-self-regulation-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/behavior-co-regulation-and-self-regulation-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 1
@@ -1660,32 +1660,65 @@
       "topic": "Co-Regulation & Self-Regulation",
       "title": "Our Shared Maker's Table: Genuine Safe Alternatives When a Resource Is in Use",
       "plan": "LESSON_02_CHOOSE_A_SAFE_ALTERNATIVE.md",
-      "url": "/lessons/behavior-co-regulation-and-self-regulation-v0_1/LESSON_02_CHOOSE_A_SAFE_ALTERNATIVE.html",
+      "url": "/stargrove-lesson-library-web/lessons/behavior-co-regulation-and-self-regulation-v0_1/LESSON_02_CHOOSE_A_SAFE_ALTERNATIVE.html",
       "sources": [
         "PK3.I.B.1.c",
         "PK4.I.B.1.c"
       ],
       "quality": "STRONG_DESIGN",
-      "facilitator": "/lessons/behavior-co-regulation-and-self-regulation-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
+      "facilitator": "/stargrove-lesson-library-web/lessons/behavior-co-regulation-and-self-regulation-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
       "materials": [
         [
           "Regulation Choice Mats",
-          "/lessons/behavior-co-regulation-and-self-regulation-v0_1/ORIGINAL_REGULATION_CHOICE_MATS.html"
+          "/stargrove-lesson-library-web/lessons/behavior-co-regulation-and-self-regulation-v0_1/ORIGINAL_REGULATION_CHOICE_MATS.html"
         ],
         [
           "Regulation Observer Records",
-          "/lessons/behavior-co-regulation-and-self-regulation-v0_1/ORIGINAL_REGULATION_OBSERVER_RECORDS.html"
+          "/stargrove-lesson-library-web/lessons/behavior-co-regulation-and-self-regulation-v0_1/ORIGINAL_REGULATION_OBSERVER_RECORDS.html"
         ],
         [
           "Developmental sequence",
-          "/lessons/behavior-co-regulation-and-self-regulation-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+          "/stargrove-lesson-library-web/lessons/behavior-co-regulation-and-self-regulation-v0_1/DEVELOPMENTAL_SEQUENCE.html"
         ],
         [
           "Family teaching guide",
-          "/lessons/behavior-co-regulation-and-self-regulation-v0_1/TEACHER_GUIDE.html"
+          "/stargrove-lesson-library-web/lessons/behavior-co-regulation-and-self-regulation-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 2
+    },
+    {
+      "family": "behavior-co-regulation-and-self-regulation-v0_1",
+      "subject": "social",
+      "topic": "Co-Regulation & Self-Regulation",
+      "title": "Room for Everyone: Real Boundaries and Gentle Transitions",
+      "plan": "LESSON_03_BOUNDARY_AND_TRANSITION_REPAIR.md",
+      "url": "/stargrove-lesson-library-web/lessons/behavior-co-regulation-and-self-regulation-v0_1/LESSON_03_BOUNDARY_AND_TRANSITION_REPAIR.html",
+      "sources": [
+        "PK3.I.B.1.c",
+        "PK4.I.B.1.c"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/behavior-co-regulation-and-self-regulation-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Regulation Choice Mats",
+          "/stargrove-lesson-library-web/lessons/behavior-co-regulation-and-self-regulation-v0_1/ORIGINAL_REGULATION_CHOICE_MATS.html"
+        ],
+        [
+          "Regulation Observer Records",
+          "/stargrove-lesson-library-web/lessons/behavior-co-regulation-and-self-regulation-v0_1/ORIGINAL_REGULATION_OBSERVER_RECORDS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/behavior-co-regulation-and-self-regulation-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/behavior-co-regulation-and-self-regulation-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 3
     }
   ]
 }
