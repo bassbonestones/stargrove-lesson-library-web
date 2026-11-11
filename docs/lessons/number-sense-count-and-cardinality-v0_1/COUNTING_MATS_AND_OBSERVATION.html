@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Counting Collections Studio — original printable kit v0.1</title>
+<style>
+  :root { color-scheme: light; font-family: Arial, Helvetica, sans-serif; }
+  * { box-sizing: border-box; }
+  body { margin: 0 auto; max-width: 950px; color:#172437; background:#eef2f5; }
+  .page { background:white; padding:17mm; margin:16px auto; width:210mm; min-height:297mm; box-shadow:0 2px 10px #0002; }
+  h1 { font-size:22pt; margin:0 0 4mm; color:#142e42; }
+  h2 { font-size:15pt; margin:9mm 0 3mm; }
+  p, li { line-height:1.4; font-size:11pt; }
+  .small { font-size:9.5pt; color:#34465a; }
+  .mat { display:flex; gap:7mm; margin-top:6mm; min-height:72mm; }
+  .zone { flex:1; border:3px solid #253e54; border-radius:12px; padding:7mm; font-size:16pt; }
+  .zone:nth-child(2) { border-style:dashed; }
+  .tokens { display:grid; grid-template-columns:repeat(5, 32mm); justify-content:space-between; gap:5mm 0; margin-top:7mm; }
+  .token { border:2px dashed #33475b; width:32mm; height:32mm; border-radius:50%; display:flex; align-items:center; justify-content:center; }
+  .token::before { content:''; border:2px solid #344e61; width:12mm; height:12mm; border-radius:50%; }
+  .field { border-bottom:1px solid #556778; min-height:9mm; margin:4mm 0 5mm; }
+  .check { display:flex;gap:12mm; flex-wrap:wrap; padding:3mm 0; }
+  .grid { display:grid; grid-template-columns:repeat(4, 1fr); gap:3mm; }
+  .grid > div { border:1px solid #8294a2; border-radius:4px; padding:3mm; min-height:15mm; }
+  table { border-collapse:collapse; width:100%; font-size:9.6pt; margin-top:3mm; }
+  td, th { border:1px solid #7a8b9d; padding:2.5mm; text-align:left; vertical-align:top; }
+  th { background:#e9eff4; }
+  .line { height:12mm; border-bottom:1px solid #8294a2; }
+  .break { break-before:page; page-break-before:always; }
+  @page { size:A4; margin:0; }
+  @media print {
+    body { margin:0; background:white; max-width:none; }
+    .page { box-shadow:none; margin:0; width:210mm; min-height:297mm; break-after:page; page-break-after:always; }
+    .page:last-child { break-after:auto;page-break-after:auto; }
+  }
+</style>
+<style>/* stargrove-print-preflight-v1: two-page A4, no overflow */@media print{@page{size:A4;margin:0}.page{min-height:0!important;height:auto!important;margin:0!important;break-after:page!important;page-break-after:always!important}.page:last-child{break-after:auto!important;page-break-after:auto!important}.mat{min-height:59mm!important}.tokens{gap:4mm 0!important}.page{padding:13mm!important}.line{height:10mm!important}}</style><style>/* stargrove-print-preflight-v2: compact blank observer page, keep 2 A4 */@media print{.page:last-child{padding:10mm!important;font-size:13px!important;line-height:1.25!important}.page:last-child p{line-height:1.25!important;margin:4px 0!important}.page:last-child h1{font-size:21px!important;margin:0 0 5px!important}.page:last-child h2{font-size:16px!important;margin:10px 0 4px!important}.page:last-child .line,.page:last-child .blank{height:7mm!important}.page:last-child .field{height:16mm!important}.page:last-child .slot{height:23mm!important}.page:last-child .phase{margin:5mm 0!important;padding:2mm!important}}</style></head>
+<body>
+<section class="page">
+  <h1>Counting Collections Studio</h1>
+  <p class="small"><strong>Original classroom / family printable • MATH-PK-COUNT-01 v0.1</strong><br>
+  An adult prepares large, non-swallowable manipulatives. Printed tokens are optional and must be cut by an adult. This page is a counting mat, not a test with printed answers.</p>
+  <h2>Move each piece once</h2>
+  <div class="mat" role="img" aria-label="Two blank zones, pieces waiting to count and pieces already counted">
+    <div class="zone">Pieces to count</div>
+    <div class="zone">Pieces I counted</div>
+  </div>
+  <p><strong>Adult introduction:</strong> “Choose where to start. Move each piece to the other side when you've counted it. Then tell or show me how many altogether.”</p>
+  <p class="small">The child may count in a different order. Do not move pieces or supply number words while recording an independent attempt.</p>
+  <h2>Optional original paper pieces</h2>
+  <p class="small">These ten 32 mm outlined discs have no numerals, count-order cues, or color-only distinctions. Use sturdy child-safe large blocks instead if cut paper is unsuitable.</p>
+  <div class="tokens" role="img" aria-label="Ten identical plain outlined circular paper counters">
+    <div class="token"></div><div class="token"></div><div class="token"></div><div class="token"></div><div class="token"></div>
+    <div class="token"></div><div class="token"></div><div class="token"></div><div class="token"></div><div class="token"></div>
+  </div>
+  <p class="small">Adult use: Select only the intended set size and provide a fresh irregular arrangement for ENTRY, DURING, EXIT and an actual later REVISIT. PK3 source scope to five; PK4 to ten. A correct total does not independently prove one-to-one correspondence.</p>
+</section>
+<section class="page break">
+  <h1>Counting observation sheet</h1>
+  <p class="small">Blank original assessment aid. No learner data has been collected; store any completed real sheet only in an authorized private educational system. A paper sheet cannot replace local assessment policies.</p>
+  <div class="grid">
+    <div>Phase<br>□ Entry □ During<br>□ Exit □ Revisit</div>
+    <div>PK scope<br>□ PK3 □ PK4<br>Target max: ____</div>
+    <div>Task ID / set size<br>___________<br>___________</div>
+    <div>Actual session date<br>___________<br>Revisit date: ____</div>
+  </div>
+  <p><strong>First child-originated count trail:</strong> Which objects were touched, skipped, revisited, or moved in what order?</p>
+  <div class="line"></div><div class="line"></div>
+  <p><strong>First “How many altogether?” response (separate from the count sequence):</strong></p>
+  <div class="line"></div>
+  <p><strong>What did the child communicate about why the last count word is the total?</strong></p>
+  <div class="line"></div><div class="line"></div>
+  <table>
+    <thead><tr><th>Separate evidence criterion</th><th>Mark one</th><th>Specific observation, not inference</th></tr></thead>
+    <tbody>
+      <tr><td><strong>C</strong> — counts each object exactly once with successive count units</td><td>□ 2 □ 1 □ 0 □ ?</td><td>___________________________<br>___________________________</td></tr>
+      <tr><td><strong>K</strong> — communicates last number as total of whole collection</td><td>□ 2 □ 1 □ 0 □ ?</td><td>___________________________<br>___________________________</td></tr>
+    </tbody>
+  </table>
+  <p class="small"><strong>Score:</strong> 2 demonstrated in task; 1 partial/ambiguous; 0 attempted but did not show target; ? not observed. These are original proposed task ratings, not externally calibrated scores or automatic mastery.</p>
+  <p><strong>Supports / provenance (check all that actually applied):</strong></p>
+  <div class="check">□ U unprompted child idea &nbsp; □ H conceptual hint / model &nbsp; □ A access-only proxy &nbsp; □ X unknown</div>
+  <p class="small">If H and A both apply, mark both. Record what the support actually did. A learner's accessible communication may still be fully their own mathematical answer.</p>
+  <div class="line"></div>
+  <p><strong>Next teaching move:</strong></p>
+  <div class="line"></div>
+  <p><strong>Interpretation limit:</strong> A correct numeral/total alone cannot prove correspondence; correct counting sequence alone cannot prove cardinality. Revisit not observed until a real later session occurs.</p>
+  <p class="small">Status: INTERNALLY AUTHORED ONLY • no educator acceptance • no child data • no functioning solo tablet claim.</p>
+</section>
+</body>
+</html>
