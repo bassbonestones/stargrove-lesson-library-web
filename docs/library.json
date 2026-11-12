@@ -1,7 +1,7 @@
 {
-  "count": 54,
-  "reader_first_guide_available_count": 54,
-  "classroom_guide_available_count": 54,
+  "count": 55,
+  "reader_first_guide_available_count": 55,
+  "classroom_guide_available_count": 55,
   "family_count": 18,
   "subjects": [
     {
@@ -12,7 +12,7 @@
     {
       "key": "language",
       "title": "Literacy & Language",
-      "count": 8
+      "count": 9
     },
     {
       "key": "social",
@@ -2003,6 +2003,41 @@
         ]
       ],
       "number": 2,
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "child-origin-communication-needs-and-purposes-v0_1",
+      "subject": "language",
+      "topic": "Child-Authored Communication",
+      "title": "What Did I Mean? Child-Origin Message Repair",
+      "plan": "LESSON_03_MESSAGE_REPAIR.md",
+      "url": "/stargrove-lesson-library-web/lessons/child-origin-communication-needs-and-purposes-v0_1/LESSON_03_MESSAGE_REPAIR.html",
+      "sources": [
+        "PK3.II.B.1",
+        "PK4.II.B.1"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/child-origin-communication-needs-and-purposes-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Listener Message Cards",
+          "/stargrove-lesson-library-web/lessons/child-origin-communication-needs-and-purposes-v0_1/ORIGINAL_LISTENER_MESSAGE_CARDS.html"
+        ],
+        [
+          "Purpose Choice Mats",
+          "/stargrove-lesson-library-web/lessons/child-origin-communication-needs-and-purposes-v0_1/ORIGINAL_PURPOSE_CHOICE_MATS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/child-origin-communication-needs-and-purposes-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/child-origin-communication-needs-and-purposes-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 3,
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     }
