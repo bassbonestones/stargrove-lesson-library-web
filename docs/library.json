@@ -1,6 +1,7 @@
 {
   "count": 49,
-  "reader_first_guide_available_count": 21,
+  "reader_first_guide_available_count": 49,
+  "classroom_guide_available_count": 49,
   "family_count": 16,
   "subjects": [
     {
@@ -67,7 +68,8 @@
         ]
       ],
       "number": 1,
-      "reader_first_guide_available": true
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "number-sense-count-and-cardinality-v0_1",
@@ -111,7 +113,8 @@
         ]
       ],
       "number": 2,
-      "reader_first_guide_available": true
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "number-sense-count-and-cardinality-v0_1",
@@ -155,7 +158,8 @@
         ]
       ],
       "number": 3,
-      "reader_first_guide_available": true
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "number-sense-count-and-cardinality-v0_1",
@@ -199,7 +203,8 @@
         ]
       ],
       "number": 4,
-      "reader_first_guide_available": true
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "number-sense-subitizing-v0_1",
@@ -237,7 +242,8 @@
         ]
       ],
       "number": 1,
-      "reader_first_guide_available": true
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "number-sense-subitizing-v0_1",
@@ -275,7 +281,8 @@
         ]
       ],
       "number": 2,
-      "reader_first_guide_available": true
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "accessing-appropriate-information-with-adult-digital-assistance-v0_1",
@@ -306,7 +313,8 @@
         ]
       ],
       "number": 1,
-      "reader_first_guide_available": true
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "number-sense-subitizing-v0_1",
@@ -344,7 +352,8 @@
         ]
       ],
       "number": 3,
-      "reader_first_guide_available": true
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "accessing-appropriate-information-with-adult-digital-assistance-v0_1",
@@ -375,7 +384,8 @@
         ]
       ],
       "number": 2,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "number-sense-quantity-representation-v0_1",
@@ -413,7 +423,8 @@
         ]
       ],
       "number": 1,
-      "reader_first_guide_available": true
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "accessing-appropriate-information-with-adult-digital-assistance-v0_1",
@@ -444,7 +455,8 @@
         ]
       ],
       "number": 3,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "number-sense-quantity-representation-v0_1",
@@ -482,7 +494,8 @@
         ]
       ],
       "number": 2,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "number-sense-quantity-representation-v0_1",
@@ -520,7 +533,8 @@
         ]
       ],
       "number": 3,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "number-sense-numeral-recognition-v0_1",
@@ -558,7 +572,8 @@
         ]
       ],
       "number": 1,
-      "reader_first_guide_available": true
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "number-sense-numeral-recognition-v0_1",
@@ -596,7 +611,8 @@
         ]
       ],
       "number": 2,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "number-sense-numeral-recognition-v0_1",
@@ -634,7 +650,8 @@
         ]
       ],
       "number": 3,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "comparing-sets-more-fewer-equal-v0_1",
@@ -668,7 +685,8 @@
         ]
       ],
       "number": 1,
-      "reader_first_guide_available": true
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "attribute-sorting-and-group-explanations-v0_1",
@@ -702,7 +720,8 @@
         ]
       ],
       "number": 1,
-      "reader_first_guide_available": true
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "comparing-sets-more-fewer-equal-v0_1",
@@ -736,7 +755,8 @@
         ]
       ],
       "number": 2,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "attribute-sorting-and-group-explanations-v0_1",
@@ -770,7 +790,8 @@
         ]
       ],
       "number": 2,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "comparing-sets-more-fewer-equal-v0_1",
@@ -804,7 +825,8 @@
         ]
       ],
       "number": 3,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "attribute-sorting-and-group-explanations-v0_1",
@@ -838,7 +860,8 @@
         ]
       ],
       "number": 3,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "authentic-group-data-and-graphs-v0_1",
@@ -872,7 +895,8 @@
         ]
       ],
       "number": 1,
-      "reader_first_guide_available": true
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "authentic-group-data-and-graphs-v0_1",
@@ -906,7 +930,8 @@
         ]
       ],
       "number": 2,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "authentic-group-data-and-graphs-v0_1",
@@ -940,7 +965,8 @@
         ]
       ],
       "number": 3,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "capacity-inside-space-and-comparison-v0_1",
@@ -974,7 +1000,8 @@
         ]
       ],
       "number": 1,
-      "reader_first_guide_available": true
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "capacity-inside-space-and-comparison-v0_1",
@@ -1008,7 +1035,8 @@
         ]
       ],
       "number": 2,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "capacity-inside-space-and-comparison-v0_1",
@@ -1042,7 +1070,8 @@
         ]
       ],
       "number": 3,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "book-question-asking-and-text-relevant-responding-v0_1",
@@ -1076,7 +1105,8 @@
         ]
       ],
       "number": 1,
-      "reader_first_guide_available": true
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "book-question-asking-and-text-relevant-responding-v0_1",
@@ -1110,7 +1140,8 @@
         ]
       ],
       "number": 2,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "book-question-asking-and-text-relevant-responding-v0_1",
@@ -1144,7 +1175,8 @@
         ]
       ],
       "number": 3,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "number-sense-joining-quantities-v0_1",
@@ -1182,7 +1214,8 @@
         ]
       ],
       "number": 1,
-      "reader_first_guide_available": true
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "number-sense-joining-quantities-v0_1",
@@ -1220,7 +1253,8 @@
         ]
       ],
       "number": 2,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "number-sense-joining-quantities-v0_1",
@@ -1258,7 +1292,8 @@
         ]
       ],
       "number": 3,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "adult-supported-to-task-directed-movement-sequences-v0_1",
@@ -1292,7 +1327,8 @@
         ]
       ],
       "number": 1,
-      "reader_first_guide_available": true
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "adult-supported-to-task-directed-movement-sequences-v0_1",
@@ -1326,7 +1362,8 @@
         ]
       ],
       "number": 2,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "adult-supported-to-task-directed-movement-sequences-v0_1",
@@ -1360,7 +1397,8 @@
         ]
       ],
       "number": 3,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "authentic-peer-interactions-and-preferred-friends-v0_1",
@@ -1394,7 +1432,8 @@
         ]
       ],
       "number": 1,
-      "reader_first_guide_available": true
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "authentic-peer-interactions-and-preferred-friends-v0_1",
@@ -1428,7 +1467,8 @@
         ]
       ],
       "number": 2,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "authentic-peer-interactions-and-preferred-friends-v0_1",
@@ -1462,7 +1502,8 @@
         ]
       ],
       "number": 3,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "authentic-social-conversation-cues-v0_1",
@@ -1496,7 +1537,8 @@
         ]
       ],
       "number": 1,
-      "reader_first_guide_available": true
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "authentic-social-conversation-cues-v0_1",
@@ -1530,7 +1572,8 @@
         ]
       ],
       "number": 2,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "authentic-social-conversation-cues-v0_1",
@@ -1564,7 +1607,8 @@
         ]
       ],
       "number": 3,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "basic-locomotor-skills-and-isolated-coordination-balance-v0_1",
@@ -1598,7 +1642,8 @@
         ]
       ],
       "number": 1,
-      "reader_first_guide_available": true
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "basic-locomotor-skills-and-isolated-coordination-balance-v0_1",
@@ -1632,7 +1677,8 @@
         ]
       ],
       "number": 2,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "basic-locomotor-skills-and-isolated-coordination-balance-v0_1",
@@ -1666,7 +1712,8 @@
         ]
       ],
       "number": 3,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "behavior-co-regulation-and-self-regulation-v0_1",
@@ -1700,7 +1747,8 @@
         ]
       ],
       "number": 1,
-      "reader_first_guide_available": true
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "behavior-co-regulation-and-self-regulation-v0_1",
@@ -1734,7 +1782,8 @@
         ]
       ],
       "number": 2,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     },
     {
       "family": "behavior-co-regulation-and-self-regulation-v0_1",
@@ -1768,7 +1817,8 @@
         ]
       ],
       "number": 3,
-      "reader_first_guide_available": false
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
     }
   ]
 }

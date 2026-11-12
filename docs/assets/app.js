@@ -52,6 +52,6 @@
       show(tab.dataset.tab);
       history.replaceState(null, "", "#"+tab.dataset.tab);
     }));
-    if (["#guide","#plan","#quick"].includes(location.hash) && tabs.some((tab) => tab.dataset.tab === location.hash.slice(1))) show(location.hash.slice(1));
+    if (["#guide","#plan","#quick","#classroom"].includes(location.hash) && tabs.some((tab) => tab.dataset.tab === location.hash.slice(1))) show(location.hash.slice(1));
   }
 })();
