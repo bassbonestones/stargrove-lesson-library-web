@@ -1,8 +1,8 @@
 {
-  "count": 55,
-  "reader_first_guide_available_count": 55,
-  "classroom_guide_available_count": 55,
-  "family_count": 18,
+  "count": 56,
+  "reader_first_guide_available_count": 56,
+  "classroom_guide_available_count": 56,
+  "family_count": 19,
   "subjects": [
     {
       "key": "math",
@@ -17,7 +17,7 @@
     {
       "key": "social",
       "title": "Social & Emotional Learning",
-      "count": 6
+      "count": 7
     },
     {
       "key": "physical",
@@ -2038,6 +2038,41 @@
         ]
       ],
       "number": 3,
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "classroom-community-roles-and-responsibilities-v0_1",
+      "subject": "social",
+      "topic": "Classroom Community Roles & Responsibilities",
+      "title": "Genuine classroom welcome/wayfinding visual helper",
+      "plan": "LESSON_01_ACTUAL_CLASS_WAYFINDING_HELPER.md",
+      "url": "/stargrove-lesson-library-web/lessons/classroom-community-roles-and-responsibilities-v0_1/LESSON_01_ACTUAL_CLASS_WAYFINDING_HELPER.html",
+      "sources": [
+        "PK3.I.C.2",
+        "PK4.I.C.2"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/classroom-community-roles-and-responsibilities-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Community Role Evidence Records",
+          "/stargrove-lesson-library-web/lessons/classroom-community-roles-and-responsibilities-v0_1/ORIGINAL_COMMUNITY_ROLE_EVIDENCE_RECORDS.html"
+        ],
+        [
+          "Safe Classroom Role Mats",
+          "/stargrove-lesson-library-web/lessons/classroom-community-roles-and-responsibilities-v0_1/ORIGINAL_SAFE_CLASSROOM_ROLE_MATS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/classroom-community-roles-and-responsibilities-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/classroom-community-roles-and-responsibilities-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 1,
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     }
