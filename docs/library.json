@@ -1,7 +1,7 @@
 {
-  "count": 51,
-  "reader_first_guide_available_count": 51,
-  "classroom_guide_available_count": 51,
+  "count": 52,
+  "reader_first_guide_available_count": 52,
+  "classroom_guide_available_count": 52,
   "family_count": 17,
   "subjects": [
     {
@@ -22,7 +22,7 @@
     {
       "key": "physical",
       "title": "Physical Development",
-      "count": 8
+      "count": 9
     },
     {
       "key": "technology",
@@ -1898,6 +1898,41 @@
         ]
       ],
       "number": 2,
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "body-movement-and-personal-space-v0_1",
+      "subject": "physical",
+      "topic": "Body Movement & Personal Space",
+      "title": "The space we choose in a willing shared project",
+      "plan": "LESSON_03_PERSONAL_SPACE_CONSENT.md",
+      "url": "/stargrove-lesson-library-web/lessons/body-movement-and-personal-space-v0_1/LESSON_03_PERSONAL_SPACE_CONSENT.html",
+      "sources": [
+        "PK3.I.A.1",
+        "PK4.I.A.1"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/body-movement-and-personal-space-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Body Space Observation Receipts",
+          "/stargrove-lesson-library-web/lessons/body-movement-and-personal-space-v0_1/ORIGINAL_BODY_SPACE_OBSERVATION_RECEIPTS.html"
+        ],
+        [
+          "Comfortable Motion Mats",
+          "/stargrove-lesson-library-web/lessons/body-movement-and-personal-space-v0_1/ORIGINAL_COMFORTABLE_MOTION_MATS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/body-movement-and-personal-space-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/body-movement-and-personal-space-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 3,
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     }
