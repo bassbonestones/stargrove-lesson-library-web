@@ -1,8 +1,8 @@
 {
-  "count": 49,
-  "reader_first_guide_available_count": 49,
-  "classroom_guide_available_count": 49,
-  "family_count": 16,
+  "count": 50,
+  "reader_first_guide_available_count": 50,
+  "classroom_guide_available_count": 50,
+  "family_count": 17,
   "subjects": [
     {
       "key": "math",
@@ -22,7 +22,7 @@
     {
       "key": "physical",
       "title": "Physical Development",
-      "count": 6
+      "count": 7
     },
     {
       "key": "technology",
@@ -1817,6 +1817,41 @@
         ]
       ],
       "number": 3,
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "body-movement-and-personal-space-v0_1",
+      "subject": "physical",
+      "topic": "Body Movement & Personal Space",
+      "title": "My start, my stop, my comfortable space",
+      "plan": "LESSON_01_GENUINE_BODY_START_STOP_AND_SPACE_CONSENT.md",
+      "url": "/stargrove-lesson-library-web/lessons/body-movement-and-personal-space-v0_1/LESSON_01_GENUINE_BODY_START_STOP_AND_SPACE_CONSENT.html",
+      "sources": [
+        "PK3.I.A.1",
+        "PK4.I.A.1"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/body-movement-and-personal-space-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Body Space Observation Receipts",
+          "/stargrove-lesson-library-web/lessons/body-movement-and-personal-space-v0_1/ORIGINAL_BODY_SPACE_OBSERVATION_RECEIPTS.html"
+        ],
+        [
+          "Comfortable Motion Mats",
+          "/stargrove-lesson-library-web/lessons/body-movement-and-personal-space-v0_1/ORIGINAL_COMFORTABLE_MOTION_MATS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/body-movement-and-personal-space-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/body-movement-and-personal-space-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 1,
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     }
