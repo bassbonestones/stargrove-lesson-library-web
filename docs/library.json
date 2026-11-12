@@ -1,7 +1,7 @@
 {
-  "count": 50,
-  "reader_first_guide_available_count": 50,
-  "classroom_guide_available_count": 50,
+  "count": 51,
+  "reader_first_guide_available_count": 51,
+  "classroom_guide_available_count": 51,
   "family_count": 17,
   "subjects": [
     {
@@ -22,7 +22,7 @@
     {
       "key": "physical",
       "title": "Physical Development",
-      "count": 7
+      "count": 8
     },
     {
       "key": "technology",
@@ -38,7 +38,12 @@
       "title": "The Counting Collections Studio — teacher/parent lesson guide",
       "plan": "LESSON_01_COLLECTION_COUNT_AND_TOTAL.md",
       "url": "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/LESSON_01_COLLECTION_COUNT_AND_TOTAL.html",
-      "sources": [],
+      "sources": [
+        "PK3.V.A.2",
+        "PK3.V.A.3",
+        "PK4.V.A.2",
+        "PK4.V.A.3"
+      ],
       "quality": "STRONG_DESIGN",
       "facilitator": "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
       "materials": [
@@ -291,7 +296,9 @@
       "title": "Use an actual adult-curated offline nature reference to find plant information",
       "plan": "LESSON_01_REAL_APPROVED_DIGITAL_PLANT_REFERENCE.md",
       "url": "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/LESSON_01_REAL_APPROVED_DIGITAL_PLANT_REFERENCE.html",
-      "sources": [],
+      "sources": [
+        "PK4.X.A.4"
+      ],
       "quality": "STRONG_DESIGN",
       "facilitator": "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
       "materials": [
@@ -362,7 +369,9 @@
       "title": "Adult-assisted access to a real child-safe astronomy digital reference",
       "plan": "LESSON_02_TRUE_CURATED_SKY_INFORMATION.md",
       "url": "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/LESSON_02_TRUE_CURATED_SKY_INFORMATION.html",
-      "sources": [],
+      "sources": [
+        "PK4.X.A.4"
+      ],
       "quality": "STRONG_DESIGN",
       "facilitator": "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
       "materials": [
@@ -433,7 +442,9 @@
       "title": "Find information about a cultural or science object in an adult-managed digital collection",
       "plan": "LESSON_03_PROTECTED_DIGITAL_MUSEUM_OBJECT_QUESTIONS.md",
       "url": "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/LESSON_03_PROTECTED_DIGITAL_MUSEUM_OBJECT_QUESTIONS.html",
-      "sources": [],
+      "sources": [
+        "PK4.X.A.4"
+      ],
       "quality": "STRONG_DESIGN",
       "facilitator": "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/LESSON_03_FACILITATOR_GUIDE.html",
       "materials": [
@@ -1852,6 +1863,41 @@
         ]
       ],
       "number": 1,
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "body-movement-and-personal-space-v0_1",
+      "subject": "physical",
+      "topic": "Body Movement & Personal Space",
+      "title": "Gentle self-directed route through safe space",
+      "plan": "LESSON_02_SOFT_SPACE_PATH.md",
+      "url": "/stargrove-lesson-library-web/lessons/body-movement-and-personal-space-v0_1/LESSON_02_SOFT_SPACE_PATH.html",
+      "sources": [
+        "PK3.I.A.1",
+        "PK4.I.A.1"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/body-movement-and-personal-space-v0_1/LESSON_02_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Body Space Observation Receipts",
+          "/stargrove-lesson-library-web/lessons/body-movement-and-personal-space-v0_1/ORIGINAL_BODY_SPACE_OBSERVATION_RECEIPTS.html"
+        ],
+        [
+          "Comfortable Motion Mats",
+          "/stargrove-lesson-library-web/lessons/body-movement-and-personal-space-v0_1/ORIGINAL_COMFORTABLE_MOTION_MATS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/body-movement-and-personal-space-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/body-movement-and-personal-space-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 2,
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     }
