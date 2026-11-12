@@ -1,5 +1,6 @@
 {
   "count": 49,
+  "reader_first_guide_available_count": 21,
   "family_count": 16,
   "subjects": [
     {
@@ -65,7 +66,8 @@
           "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 1
+      "number": 1,
+      "reader_first_guide_available": true
     },
     {
       "family": "number-sense-count-and-cardinality-v0_1",
@@ -108,7 +110,8 @@
           "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 2
+      "number": 2,
+      "reader_first_guide_available": true
     },
     {
       "family": "number-sense-count-and-cardinality-v0_1",
@@ -151,7 +154,8 @@
           "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 3
+      "number": 3,
+      "reader_first_guide_available": true
     },
     {
       "family": "number-sense-count-and-cardinality-v0_1",
@@ -194,7 +198,8 @@
           "/stargrove-lesson-library-web/lessons/number-sense-count-and-cardinality-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 4
+      "number": 4,
+      "reader_first_guide_available": true
     },
     {
       "family": "number-sense-subitizing-v0_1",
@@ -231,7 +236,8 @@
           "/stargrove-lesson-library-web/lessons/number-sense-subitizing-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 1
+      "number": 1,
+      "reader_first_guide_available": true
     },
     {
       "family": "number-sense-subitizing-v0_1",
@@ -268,7 +274,8 @@
           "/stargrove-lesson-library-web/lessons/number-sense-subitizing-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 2
+      "number": 2,
+      "reader_first_guide_available": true
     },
     {
       "family": "accessing-appropriate-information-with-adult-digital-assistance-v0_1",
@@ -298,7 +305,8 @@
           "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 1
+      "number": 1,
+      "reader_first_guide_available": true
     },
     {
       "family": "number-sense-subitizing-v0_1",
@@ -335,7 +343,8 @@
           "/stargrove-lesson-library-web/lessons/number-sense-subitizing-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 3
+      "number": 3,
+      "reader_first_guide_available": true
     },
     {
       "family": "accessing-appropriate-information-with-adult-digital-assistance-v0_1",
@@ -365,7 +374,8 @@
           "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 2
+      "number": 2,
+      "reader_first_guide_available": false
     },
     {
       "family": "number-sense-quantity-representation-v0_1",
@@ -402,7 +412,8 @@
           "/stargrove-lesson-library-web/lessons/number-sense-quantity-representation-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 1
+      "number": 1,
+      "reader_first_guide_available": true
     },
     {
       "family": "accessing-appropriate-information-with-adult-digital-assistance-v0_1",
@@ -432,7 +443,8 @@
           "/stargrove-lesson-library-web/lessons/accessing-appropriate-information-with-adult-digital-assistance-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 3
+      "number": 3,
+      "reader_first_guide_available": false
     },
     {
       "family": "number-sense-quantity-representation-v0_1",
@@ -469,7 +481,8 @@
           "/stargrove-lesson-library-web/lessons/number-sense-quantity-representation-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 2
+      "number": 2,
+      "reader_first_guide_available": false
     },
     {
       "family": "number-sense-quantity-representation-v0_1",
@@ -506,7 +519,8 @@
           "/stargrove-lesson-library-web/lessons/number-sense-quantity-representation-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 3
+      "number": 3,
+      "reader_first_guide_available": false
     },
     {
       "family": "number-sense-numeral-recognition-v0_1",
@@ -543,7 +557,8 @@
           "/stargrove-lesson-library-web/lessons/number-sense-numeral-recognition-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 1
+      "number": 1,
+      "reader_first_guide_available": true
     },
     {
       "family": "number-sense-numeral-recognition-v0_1",
@@ -580,7 +595,8 @@
           "/stargrove-lesson-library-web/lessons/number-sense-numeral-recognition-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 2
+      "number": 2,
+      "reader_first_guide_available": false
     },
     {
       "family": "number-sense-numeral-recognition-v0_1",
@@ -617,7 +633,8 @@
           "/stargrove-lesson-library-web/lessons/number-sense-numeral-recognition-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 3
+      "number": 3,
+      "reader_first_guide_available": false
     },
     {
       "family": "comparing-sets-more-fewer-equal-v0_1",
@@ -650,7 +667,8 @@
           "/stargrove-lesson-library-web/lessons/comparing-sets-more-fewer-equal-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 1
+      "number": 1,
+      "reader_first_guide_available": true
     },
     {
       "family": "attribute-sorting-and-group-explanations-v0_1",
@@ -683,7 +701,8 @@
           "/stargrove-lesson-library-web/lessons/attribute-sorting-and-group-explanations-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 1
+      "number": 1,
+      "reader_first_guide_available": true
     },
     {
       "family": "comparing-sets-more-fewer-equal-v0_1",
@@ -716,7 +735,8 @@
           "/stargrove-lesson-library-web/lessons/comparing-sets-more-fewer-equal-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 2
+      "number": 2,
+      "reader_first_guide_available": false
     },
     {
       "family": "attribute-sorting-and-group-explanations-v0_1",
@@ -749,7 +769,8 @@
           "/stargrove-lesson-library-web/lessons/attribute-sorting-and-group-explanations-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 2
+      "number": 2,
+      "reader_first_guide_available": false
     },
     {
       "family": "comparing-sets-more-fewer-equal-v0_1",
@@ -782,7 +803,8 @@
           "/stargrove-lesson-library-web/lessons/comparing-sets-more-fewer-equal-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 3
+      "number": 3,
+      "reader_first_guide_available": false
     },
     {
       "family": "attribute-sorting-and-group-explanations-v0_1",
@@ -815,7 +837,8 @@
           "/stargrove-lesson-library-web/lessons/attribute-sorting-and-group-explanations-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 3
+      "number": 3,
+      "reader_first_guide_available": false
     },
     {
       "family": "authentic-group-data-and-graphs-v0_1",
@@ -848,7 +871,8 @@
           "/stargrove-lesson-library-web/lessons/authentic-group-data-and-graphs-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 1
+      "number": 1,
+      "reader_first_guide_available": true
     },
     {
       "family": "authentic-group-data-and-graphs-v0_1",
@@ -881,7 +905,8 @@
           "/stargrove-lesson-library-web/lessons/authentic-group-data-and-graphs-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 2
+      "number": 2,
+      "reader_first_guide_available": false
     },
     {
       "family": "authentic-group-data-and-graphs-v0_1",
@@ -914,7 +939,8 @@
           "/stargrove-lesson-library-web/lessons/authentic-group-data-and-graphs-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 3
+      "number": 3,
+      "reader_first_guide_available": false
     },
     {
       "family": "capacity-inside-space-and-comparison-v0_1",
@@ -947,7 +973,8 @@
           "/stargrove-lesson-library-web/lessons/capacity-inside-space-and-comparison-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 1
+      "number": 1,
+      "reader_first_guide_available": true
     },
     {
       "family": "capacity-inside-space-and-comparison-v0_1",
@@ -980,7 +1007,8 @@
           "/stargrove-lesson-library-web/lessons/capacity-inside-space-and-comparison-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 2
+      "number": 2,
+      "reader_first_guide_available": false
     },
     {
       "family": "capacity-inside-space-and-comparison-v0_1",
@@ -1013,7 +1041,8 @@
           "/stargrove-lesson-library-web/lessons/capacity-inside-space-and-comparison-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 3
+      "number": 3,
+      "reader_first_guide_available": false
     },
     {
       "family": "book-question-asking-and-text-relevant-responding-v0_1",
@@ -1046,7 +1075,8 @@
           "/stargrove-lesson-library-web/lessons/book-question-asking-and-text-relevant-responding-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 1
+      "number": 1,
+      "reader_first_guide_available": true
     },
     {
       "family": "book-question-asking-and-text-relevant-responding-v0_1",
@@ -1079,7 +1109,8 @@
           "/stargrove-lesson-library-web/lessons/book-question-asking-and-text-relevant-responding-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 2
+      "number": 2,
+      "reader_first_guide_available": false
     },
     {
       "family": "book-question-asking-and-text-relevant-responding-v0_1",
@@ -1112,7 +1143,8 @@
           "/stargrove-lesson-library-web/lessons/book-question-asking-and-text-relevant-responding-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 3
+      "number": 3,
+      "reader_first_guide_available": false
     },
     {
       "family": "number-sense-joining-quantities-v0_1",
@@ -1149,7 +1181,8 @@
           "/stargrove-lesson-library-web/lessons/number-sense-joining-quantities-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 1
+      "number": 1,
+      "reader_first_guide_available": true
     },
     {
       "family": "number-sense-joining-quantities-v0_1",
@@ -1186,7 +1219,8 @@
           "/stargrove-lesson-library-web/lessons/number-sense-joining-quantities-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 2
+      "number": 2,
+      "reader_first_guide_available": false
     },
     {
       "family": "number-sense-joining-quantities-v0_1",
@@ -1223,7 +1257,8 @@
           "/stargrove-lesson-library-web/lessons/number-sense-joining-quantities-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 3
+      "number": 3,
+      "reader_first_guide_available": false
     },
     {
       "family": "adult-supported-to-task-directed-movement-sequences-v0_1",
@@ -1256,7 +1291,8 @@
           "/stargrove-lesson-library-web/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 1
+      "number": 1,
+      "reader_first_guide_available": true
     },
     {
       "family": "adult-supported-to-task-directed-movement-sequences-v0_1",
@@ -1289,7 +1325,8 @@
           "/stargrove-lesson-library-web/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 2
+      "number": 2,
+      "reader_first_guide_available": false
     },
     {
       "family": "adult-supported-to-task-directed-movement-sequences-v0_1",
@@ -1322,7 +1359,8 @@
           "/stargrove-lesson-library-web/lessons/adult-supported-to-task-directed-movement-sequences-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 3
+      "number": 3,
+      "reader_first_guide_available": false
     },
     {
       "family": "authentic-peer-interactions-and-preferred-friends-v0_1",
@@ -1355,7 +1393,8 @@
           "/stargrove-lesson-library-web/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 1
+      "number": 1,
+      "reader_first_guide_available": true
     },
     {
       "family": "authentic-peer-interactions-and-preferred-friends-v0_1",
@@ -1388,7 +1427,8 @@
           "/stargrove-lesson-library-web/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 2
+      "number": 2,
+      "reader_first_guide_available": false
     },
     {
       "family": "authentic-peer-interactions-and-preferred-friends-v0_1",
@@ -1421,7 +1461,8 @@
           "/stargrove-lesson-library-web/lessons/authentic-peer-interactions-and-preferred-friends-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 3
+      "number": 3,
+      "reader_first_guide_available": false
     },
     {
       "family": "authentic-social-conversation-cues-v0_1",
@@ -1454,7 +1495,8 @@
           "/stargrove-lesson-library-web/lessons/authentic-social-conversation-cues-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 1
+      "number": 1,
+      "reader_first_guide_available": true
     },
     {
       "family": "authentic-social-conversation-cues-v0_1",
@@ -1487,7 +1529,8 @@
           "/stargrove-lesson-library-web/lessons/authentic-social-conversation-cues-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 2
+      "number": 2,
+      "reader_first_guide_available": false
     },
     {
       "family": "authentic-social-conversation-cues-v0_1",
@@ -1520,7 +1563,8 @@
           "/stargrove-lesson-library-web/lessons/authentic-social-conversation-cues-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 3
+      "number": 3,
+      "reader_first_guide_available": false
     },
     {
       "family": "basic-locomotor-skills-and-isolated-coordination-balance-v0_1",
@@ -1553,7 +1597,8 @@
           "/stargrove-lesson-library-web/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 1
+      "number": 1,
+      "reader_first_guide_available": true
     },
     {
       "family": "basic-locomotor-skills-and-isolated-coordination-balance-v0_1",
@@ -1586,7 +1631,8 @@
           "/stargrove-lesson-library-web/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 2
+      "number": 2,
+      "reader_first_guide_available": false
     },
     {
       "family": "basic-locomotor-skills-and-isolated-coordination-balance-v0_1",
@@ -1619,7 +1665,8 @@
           "/stargrove-lesson-library-web/lessons/basic-locomotor-skills-and-isolated-coordination-balance-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 3
+      "number": 3,
+      "reader_first_guide_available": false
     },
     {
       "family": "behavior-co-regulation-and-self-regulation-v0_1",
@@ -1652,7 +1699,8 @@
           "/stargrove-lesson-library-web/lessons/behavior-co-regulation-and-self-regulation-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 1
+      "number": 1,
+      "reader_first_guide_available": true
     },
     {
       "family": "behavior-co-regulation-and-self-regulation-v0_1",
@@ -1685,7 +1733,8 @@
           "/stargrove-lesson-library-web/lessons/behavior-co-regulation-and-self-regulation-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 2
+      "number": 2,
+      "reader_first_guide_available": false
     },
     {
       "family": "behavior-co-regulation-and-self-regulation-v0_1",
@@ -1718,7 +1767,8 @@
           "/stargrove-lesson-library-web/lessons/behavior-co-regulation-and-self-regulation-v0_1/TEACHER_GUIDE.html"
         ]
       ],
-      "number": 3
+      "number": 3,
+      "reader_first_guide_available": false
     }
   ]
 }
