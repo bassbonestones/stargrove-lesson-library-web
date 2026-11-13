@@ -1,8 +1,8 @@
 {
-  "count": 59,
-  "reader_first_guide_available_count": 59,
-  "classroom_guide_available_count": 59,
-  "family_count": 20,
+  "count": 60,
+  "reader_first_guide_available_count": 60,
+  "classroom_guide_available_count": 60,
+  "family_count": 21,
   "subjects": [
     {
       "key": "math",
@@ -17,7 +17,7 @@
     {
       "key": "social",
       "title": "Social & Emotional Learning",
-      "count": 9
+      "count": 10
     },
     {
       "key": "physical",
@@ -2187,6 +2187,41 @@
         [
           "Family teaching guide",
           "/stargrove-lesson-library-web/lessons/classroom-instruction-language-comprehension-and-use-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 1,
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "classroom-routines-with-developmental-support-v0_1",
+      "subject": "social",
+      "topic": "Classroom Routines",
+      "title": "Make something, save it, and leave the art place ready",
+      "plan": "LESSON_01_AUTHENTIC_ART_CENTER_ROUTINE.md",
+      "url": "/stargrove-lesson-library-web/lessons/classroom-routines-with-developmental-support-v0_1/LESSON_01_AUTHENTIC_ART_CENTER_ROUTINE.html",
+      "sources": [
+        "PK3.I.B.1.a",
+        "PK4.I.B.1.a"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/classroom-routines-with-developmental-support-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Classroom Routine Mats",
+          "/stargrove-lesson-library-web/lessons/classroom-routines-with-developmental-support-v0_1/ORIGINAL_CLASSROOM_ROUTINE_MATS.html"
+        ],
+        [
+          "Routine Support Receipts",
+          "/stargrove-lesson-library-web/lessons/classroom-routines-with-developmental-support-v0_1/ORIGINAL_ROUTINE_SUPPORT_RECEIPTS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/classroom-routines-with-developmental-support-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/classroom-routines-with-developmental-support-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 1,
