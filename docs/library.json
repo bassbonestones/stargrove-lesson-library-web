@@ -1,8 +1,8 @@
 {
-  "count": 66,
-  "reader_first_guide_available_count": 66,
-  "classroom_guide_available_count": 66,
-  "family_count": 27,
+  "count": 67,
+  "reader_first_guide_available_count": 67,
+  "classroom_guide_available_count": 67,
+  "family_count": 28,
   "subjects": [
     {
       "key": "fine-arts",
@@ -22,7 +22,7 @@
     {
       "key": "social-studies",
       "title": "Social Studies",
-      "count": 1
+      "count": 2
     },
     {
       "key": "social",
@@ -2696,6 +2696,44 @@
       "number": 1,
       "source_grades": [
         "PK3",
+        "PK4"
+      ],
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "community-needs-and-helpers-v0_1",
+      "subject": "social-studies",
+      "topic": "Community Needs & Helpers",
+      "title": "Needs and Support Studio",
+      "plan": "LESSON_01_UNIVERSAL_NEEDS_AND_SUPPORT_STUDIO.md",
+      "url": "/stargrove-lesson-library-web/lessons/community-needs-and-helpers-v0_1/LESSON_01_UNIVERSAL_NEEDS_AND_SUPPORT_STUDIO.html",
+      "sources": [
+        "PK4.VII.B.1",
+        "PK4.VII.B.3"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/community-needs-and-helpers-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Community Scenes",
+          "/stargrove-lesson-library-web/lessons/community-needs-and-helpers-v0_1/ORIGINAL_COMMUNITY_SCENES.html"
+        ],
+        [
+          "Stage Cards",
+          "/stargrove-lesson-library-web/lessons/community-needs-and-helpers-v0_1/ORIGINAL_STAGE_CARDS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/community-needs-and-helpers-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/community-needs-and-helpers-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 1,
+      "source_grades": [
         "PK4"
       ],
       "reader_first_guide_available": true,
