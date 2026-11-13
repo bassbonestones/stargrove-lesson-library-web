@@ -1,13 +1,13 @@
 {
-  "count": 64,
-  "reader_first_guide_available_count": 64,
-  "classroom_guide_available_count": 64,
-  "family_count": 25,
+  "count": 65,
+  "reader_first_guide_available_count": 65,
+  "classroom_guide_available_count": 65,
+  "family_count": 26,
   "subjects": [
     {
       "key": "fine-arts",
       "title": "Fine Arts",
-      "count": 1
+      "count": 2
     },
     {
       "key": "math",
@@ -2616,6 +2616,43 @@
         [
           "Family teaching guide",
           "/stargrove-lesson-library-web/lessons/compound-word-manipulation-pk4-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 1,
+      "source_grades": [
+        "PK4"
+      ],
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "exploring-varied-real-art-materials-and-sensory-properties-v0_1",
+      "subject": "fine-arts",
+      "topic": "Art Materials & Sensory Exploration",
+      "title": "Real crayon and paper textures: an open art investigation",
+      "plan": "LESSON_01_REAL_CRAYON_AND_PAPER_TEXTURES.md",
+      "url": "/stargrove-lesson-library-web/lessons/exploring-varied-real-art-materials-and-sensory-properties-v0_1/LESSON_01_REAL_CRAYON_AND_PAPER_TEXTURES.html",
+      "sources": [
+        "PK4.VIII.A.1"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/exploring-varied-real-art-materials-and-sensory-properties-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Real Art Material Source Observations",
+          "/stargrove-lesson-library-web/lessons/exploring-varied-real-art-materials-and-sensory-properties-v0_1/ORIGINAL_REAL_ART_MATERIAL_SOURCE_OBSERVATIONS.html"
+        ],
+        [
+          "Real Art Media Exploration Cards",
+          "/stargrove-lesson-library-web/lessons/exploring-varied-real-art-materials-and-sensory-properties-v0_1/ORIGINAL_REAL_ART_MEDIA_EXPLORATION_CARDS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/exploring-varied-real-art-materials-and-sensory-properties-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/exploring-varied-real-art-materials-and-sensory-properties-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 1,
