@@ -1,8 +1,8 @@
 {
-  "count": 63,
-  "reader_first_guide_available_count": 63,
-  "classroom_guide_available_count": 63,
-  "family_count": 24,
+  "count": 64,
+  "reader_first_guide_available_count": 64,
+  "classroom_guide_available_count": 64,
+  "family_count": 25,
   "subjects": [
     {
       "key": "fine-arts",
@@ -17,7 +17,7 @@
     {
       "key": "language",
       "title": "Literacy & Language",
-      "count": 10
+      "count": 11
     },
     {
       "key": "social-studies",
@@ -2579,6 +2579,43 @@
         [
           "Family teaching guide",
           "/stargrove-lesson-library-web/lessons/creating-personally-meaningful-art-and-representations-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 1,
+      "source_grades": [
+        "PK4"
+      ],
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "compound-word-manipulation-pk4-v0_1",
+      "subject": "language",
+      "topic": "Compound Words & Word Play",
+      "title": "Raincoat without rain: play with a whole word",
+      "plan": "LESSON_01_RAINCOAT_REMOVE_FIRST_REAL_BASE.md",
+      "url": "/stargrove-lesson-library-web/lessons/compound-word-manipulation-pk4-v0_1/LESSON_01_RAINCOAT_REMOVE_FIRST_REAL_BASE.html",
+      "sources": [
+        "PK4.III.B.4"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/compound-word-manipulation-pk4-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Compound Manipulation Mats",
+          "/stargrove-lesson-library-web/lessons/compound-word-manipulation-pk4-v0_1/ORIGINAL_COMPOUND_MANIPULATION_MATS.html"
+        ],
+        [
+          "Pk4 Compound Change Observations",
+          "/stargrove-lesson-library-web/lessons/compound-word-manipulation-pk4-v0_1/ORIGINAL_PK4_COMPOUND_CHANGE_OBSERVATIONS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/compound-word-manipulation-pk4-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/compound-word-manipulation-pk4-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 1,
