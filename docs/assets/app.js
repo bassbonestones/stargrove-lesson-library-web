@@ -52,6 +52,23 @@
       show(tab.dataset.tab);
       history.replaceState(null, "", "#"+tab.dataset.tab);
     }));
-    if (["#guide","#plan","#quick","#classroom"].includes(location.hash) && tabs.some((tab) => tab.dataset.tab === location.hash.slice(1))) show(location.hash.slice(1));
+    const showHash = () => {
+      const key = location.hash.slice(1);
+      show(tabs.some((tab) => tab.dataset.tab === key) ? key : tabs[0].dataset.tab);
+    };
+    window.addEventListener("hashchange", showHash);
+    window.addEventListener("popstate", showHash);
+    tabs.forEach((tab, index) => tab.addEventListener("keydown", (event) => {
+      let next;
+      if (event.key === "ArrowRight") next = (index + 1) % tabs.length;
+      else if (event.key === "ArrowLeft") next = (index + tabs.length - 1) % tabs.length;
+      else if (event.key === "Home") next = 0;
+      else if (event.key === "End") next = tabs.length - 1;
+      else return;
+      event.preventDefault();
+      tabs[next].click();
+      tabs[next].focus();
+    }));
+    showHash();
   }
 })();

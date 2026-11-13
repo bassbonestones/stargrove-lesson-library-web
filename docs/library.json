@@ -1,8 +1,8 @@
 {
-  "count": 58,
-  "reader_first_guide_available_count": 58,
-  "classroom_guide_available_count": 58,
-  "family_count": 19,
+  "count": 59,
+  "reader_first_guide_available_count": 59,
+  "classroom_guide_available_count": 59,
+  "family_count": 20,
   "subjects": [
     {
       "key": "math",
@@ -12,7 +12,7 @@
     {
       "key": "language",
       "title": "Literacy & Language",
-      "count": 9
+      "count": 10
     },
     {
       "key": "social",
@@ -2155,6 +2155,41 @@
         ]
       ],
       "number": 3,
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "classroom-instruction-language-comprehension-and-use-v0_1",
+      "subject": "language",
+      "topic": "Classroom Instructional Language",
+      "title": "Words that help us make things together",
+      "plan": "LESSON_01_ACTUAL_CLASSROOM_WORDS_AND_ACTIONS.md",
+      "url": "/stargrove-lesson-library-web/lessons/classroom-instruction-language-comprehension-and-use-v0_1/LESSON_01_ACTUAL_CLASSROOM_WORDS_AND_ACTIONS.html",
+      "sources": [
+        "PK3.II.D.2",
+        "PK4.II.D.2"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/classroom-instruction-language-comprehension-and-use-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Classroom Word Mats",
+          "/stargrove-lesson-library-web/lessons/classroom-instruction-language-comprehension-and-use-v0_1/ORIGINAL_CLASSROOM_WORD_MATS.html"
+        ],
+        [
+          "Instruction Observer Receipts",
+          "/stargrove-lesson-library-web/lessons/classroom-instruction-language-comprehension-and-use-v0_1/ORIGINAL_INSTRUCTION_OBSERVER_RECEIPTS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/classroom-instruction-language-comprehension-and-use-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/classroom-instruction-language-comprehension-and-use-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 1,
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     }
