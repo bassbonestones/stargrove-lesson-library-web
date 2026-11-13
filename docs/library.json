@@ -1,9 +1,14 @@
 {
-  "count": 62,
-  "reader_first_guide_available_count": 62,
-  "classroom_guide_available_count": 62,
-  "family_count": 23,
+  "count": 63,
+  "reader_first_guide_available_count": 63,
+  "classroom_guide_available_count": 63,
+  "family_count": 24,
   "subjects": [
+    {
+      "key": "fine-arts",
+      "title": "Fine Arts",
+      "count": 1
+    },
     {
       "key": "math",
       "title": "Mathematics",
@@ -2537,6 +2542,43 @@
         [
           "Family teaching guide",
           "/stargrove-lesson-library-web/lessons/consumer-choices-and-exchange-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 1,
+      "source_grades": [
+        "PK4"
+      ],
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "creating-personally-meaningful-art-and-representations-v0_1",
+      "subject": "fine-arts",
+      "topic": "Personally Meaningful Art",
+      "title": "Make a place that belongs to your imagination",
+      "plan": "LESSON_01_CHILD_OWNED_IMAGINARY_PLACE.md",
+      "url": "/stargrove-lesson-library-web/lessons/creating-personally-meaningful-art-and-representations-v0_1/LESSON_01_CHILD_OWNED_IMAGINARY_PLACE.html",
+      "sources": [
+        "PK4.VIII.A.2"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/creating-personally-meaningful-art-and-representations-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Lesson 01 Imaginary Place Invitation",
+          "/stargrove-lesson-library-web/lessons/creating-personally-meaningful-art-and-representations-v0_1/ORIGINAL_LESSON_01_IMAGINARY_PLACE_INVITATION.html"
+        ],
+        [
+          "Lesson 01 Imaginary Place Observation",
+          "/stargrove-lesson-library-web/lessons/creating-personally-meaningful-art-and-representations-v0_1/ORIGINAL_LESSON_01_IMAGINARY_PLACE_OBSERVATION.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/creating-personally-meaningful-art-and-representations-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/creating-personally-meaningful-art-and-representations-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 1,
