@@ -1,8 +1,8 @@
 {
-  "count": 60,
-  "reader_first_guide_available_count": 60,
-  "classroom_guide_available_count": 60,
-  "family_count": 21,
+  "count": 61,
+  "reader_first_guide_available_count": 61,
+  "classroom_guide_available_count": 61,
+  "family_count": 22,
   "subjects": [
     {
       "key": "math",
@@ -17,7 +17,7 @@
     {
       "key": "social",
       "title": "Social & Emotional Learning",
-      "count": 10
+      "count": 11
     },
     {
       "key": "physical",
@@ -2222,6 +2222,41 @@
         [
           "Family teaching guide",
           "/stargrove-lesson-library-web/lessons/classroom-routines-with-developmental-support-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 1,
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "conflict-help-and-safe-problem-solving-v0_1",
+      "subject": "social",
+      "topic": "Getting Trusted Adult Help",
+      "title": "A responsive trusted adult helps with real conflict",
+      "plan": "LESSON_01_ACTUAL_TRUSTED_ADULT_CONFLICT_HELP.md",
+      "url": "/stargrove-lesson-library-web/lessons/conflict-help-and-safe-problem-solving-v0_1/LESSON_01_ACTUAL_TRUSTED_ADULT_CONFLICT_HELP.html",
+      "sources": [
+        "PK3.I.C.5",
+        "PK4.I.C.5"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/conflict-help-and-safe-problem-solving-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Real Conflict Observation Records",
+          "/stargrove-lesson-library-web/lessons/conflict-help-and-safe-problem-solving-v0_1/ORIGINAL_REAL_CONFLICT_OBSERVATION_RECORDS.html"
+        ],
+        [
+          "Safe Conflict Help Choice Mats",
+          "/stargrove-lesson-library-web/lessons/conflict-help-and-safe-problem-solving-v0_1/ORIGINAL_SAFE_CONFLICT_HELP_CHOICE_MATS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/conflict-help-and-safe-problem-solving-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/conflict-help-and-safe-problem-solving-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 1,
