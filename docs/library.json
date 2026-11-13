@@ -1,8 +1,8 @@
 {
-  "count": 61,
-  "reader_first_guide_available_count": 61,
-  "classroom_guide_available_count": 61,
-  "family_count": 22,
+  "count": 62,
+  "reader_first_guide_available_count": 62,
+  "classroom_guide_available_count": 62,
+  "family_count": 23,
   "subjects": [
     {
       "key": "math",
@@ -13,6 +13,11 @@
       "key": "language",
       "title": "Literacy & Language",
       "count": 10
+    },
+    {
+      "key": "social-studies",
+      "title": "Social Studies",
+      "count": 1
     },
     {
       "key": "social",
@@ -73,6 +78,10 @@
         ]
       ],
       "number": 1,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -118,6 +127,10 @@
         ]
       ],
       "number": 2,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -163,6 +176,10 @@
         ]
       ],
       "number": 3,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -208,6 +225,10 @@
         ]
       ],
       "number": 4,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -247,6 +268,10 @@
         ]
       ],
       "number": 1,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -286,6 +311,10 @@
         ]
       ],
       "number": 2,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -320,6 +349,9 @@
         ]
       ],
       "number": 1,
+      "source_grades": [
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -359,6 +391,10 @@
         ]
       ],
       "number": 3,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -393,6 +429,9 @@
         ]
       ],
       "number": 2,
+      "source_grades": [
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -432,6 +471,10 @@
         ]
       ],
       "number": 1,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -466,6 +509,9 @@
         ]
       ],
       "number": 3,
+      "source_grades": [
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -505,6 +551,10 @@
         ]
       ],
       "number": 2,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -544,6 +594,10 @@
         ]
       ],
       "number": 3,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -583,6 +637,10 @@
         ]
       ],
       "number": 1,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -622,6 +680,10 @@
         ]
       ],
       "number": 2,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -661,6 +723,10 @@
         ]
       ],
       "number": 3,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -696,6 +762,10 @@
         ]
       ],
       "number": 1,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -731,6 +801,10 @@
         ]
       ],
       "number": 1,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -766,6 +840,10 @@
         ]
       ],
       "number": 2,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -801,6 +879,10 @@
         ]
       ],
       "number": 2,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -836,6 +918,10 @@
         ]
       ],
       "number": 3,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -871,6 +957,10 @@
         ]
       ],
       "number": 3,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -906,6 +996,10 @@
         ]
       ],
       "number": 1,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -941,6 +1035,10 @@
         ]
       ],
       "number": 2,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -976,6 +1074,10 @@
         ]
       ],
       "number": 3,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1011,6 +1113,10 @@
         ]
       ],
       "number": 1,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1046,6 +1152,10 @@
         ]
       ],
       "number": 2,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1081,6 +1191,10 @@
         ]
       ],
       "number": 3,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1116,6 +1230,10 @@
         ]
       ],
       "number": 1,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1151,6 +1269,10 @@
         ]
       ],
       "number": 2,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1186,6 +1308,10 @@
         ]
       ],
       "number": 3,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1225,6 +1351,10 @@
         ]
       ],
       "number": 1,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1264,6 +1394,10 @@
         ]
       ],
       "number": 2,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1303,6 +1437,10 @@
         ]
       ],
       "number": 3,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1338,6 +1476,10 @@
         ]
       ],
       "number": 1,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1373,6 +1515,10 @@
         ]
       ],
       "number": 2,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1408,6 +1554,10 @@
         ]
       ],
       "number": 3,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1443,6 +1593,10 @@
         ]
       ],
       "number": 1,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1478,6 +1632,10 @@
         ]
       ],
       "number": 2,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1513,6 +1671,10 @@
         ]
       ],
       "number": 3,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1548,6 +1710,10 @@
         ]
       ],
       "number": 1,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1583,6 +1749,10 @@
         ]
       ],
       "number": 2,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1618,6 +1788,10 @@
         ]
       ],
       "number": 3,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1653,6 +1827,10 @@
         ]
       ],
       "number": 1,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1688,6 +1866,10 @@
         ]
       ],
       "number": 2,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1723,6 +1905,10 @@
         ]
       ],
       "number": 3,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1758,6 +1944,10 @@
         ]
       ],
       "number": 1,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1793,6 +1983,10 @@
         ]
       ],
       "number": 2,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1828,6 +2022,10 @@
         ]
       ],
       "number": 3,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1863,6 +2061,10 @@
         ]
       ],
       "number": 1,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1898,6 +2100,10 @@
         ]
       ],
       "number": 2,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1933,6 +2139,10 @@
         ]
       ],
       "number": 3,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -1968,6 +2178,10 @@
         ]
       ],
       "number": 1,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -2003,6 +2217,10 @@
         ]
       ],
       "number": 2,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -2038,6 +2256,10 @@
         ]
       ],
       "number": 3,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -2077,6 +2299,10 @@
         ]
       ],
       "number": 1,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -2116,6 +2342,10 @@
         ]
       ],
       "number": 2,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -2155,6 +2385,10 @@
         ]
       ],
       "number": 3,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -2190,6 +2424,10 @@
         ]
       ],
       "number": 1,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -2225,6 +2463,10 @@
         ]
       ],
       "number": 1,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     },
@@ -2260,6 +2502,47 @@
         ]
       ],
       "number": 1,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "consumer-choices-and-exchange-v0_1",
+      "subject": "social-studies",
+      "topic": "Consumer Choices & Exchange",
+      "title": "Consumer Choice Studio: choose something useful",
+      "plan": "LESSON_01_AUTHENTIC_CONSUMER_ROLE_CHOICE.md",
+      "url": "/stargrove-lesson-library-web/lessons/consumer-choices-and-exchange-v0_1/LESSON_01_AUTHENTIC_CONSUMER_ROLE_CHOICE.html",
+      "sources": [
+        "PK4.VII.B.2"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/consumer-choices-and-exchange-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Consumer Scenes",
+          "/stargrove-lesson-library-web/lessons/consumer-choices-and-exchange-v0_1/ORIGINAL_CONSUMER_SCENES.html"
+        ],
+        [
+          "Stage Cards",
+          "/stargrove-lesson-library-web/lessons/consumer-choices-and-exchange-v0_1/ORIGINAL_STAGE_CARDS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/consumer-choices-and-exchange-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/consumer-choices-and-exchange-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 1,
+      "source_grades": [
+        "PK4"
+      ],
       "reader_first_guide_available": true,
       "classroom_guide_available": true
     }
