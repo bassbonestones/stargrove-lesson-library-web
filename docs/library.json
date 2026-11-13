@@ -1,8 +1,8 @@
 {
-  "count": 65,
-  "reader_first_guide_available_count": 65,
-  "classroom_guide_available_count": 65,
-  "family_count": 26,
+  "count": 66,
+  "reader_first_guide_available_count": 66,
+  "classroom_guide_available_count": 66,
+  "family_count": 27,
   "subjects": [
     {
       "key": "fine-arts",
@@ -17,7 +17,7 @@
     {
       "key": "language",
       "title": "Literacy & Language",
-      "count": 11
+      "count": 12
     },
     {
       "key": "social-studies",
@@ -2657,6 +2657,45 @@
       ],
       "number": 1,
       "source_grades": [
+        "PK4"
+      ],
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "environmental-print-and-print-communication-v0_1",
+      "subject": "language",
+      "topic": "Environmental Print & Real Labels",
+      "title": "Real place labels: writing helps us know our space",
+      "plan": "LESSON_01_REAL_PLACE_LABEL_PRINT_MEANING.md",
+      "url": "/stargrove-lesson-library-web/lessons/environmental-print-and-print-communication-v0_1/LESSON_01_REAL_PLACE_LABEL_PRINT_MEANING.html",
+      "sources": [
+        "PK3.III.A.3",
+        "PK4.III.A.3"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/environmental-print-and-print-communication-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Environmental Print Purpose Mats",
+          "/stargrove-lesson-library-web/lessons/environmental-print-and-print-communication-v0_1/ORIGINAL_ENVIRONMENTAL_PRINT_PURPOSE_MATS.html"
+        ],
+        [
+          "Print Meaning Observation Records",
+          "/stargrove-lesson-library-web/lessons/environmental-print-and-print-communication-v0_1/ORIGINAL_PRINT_MEANING_OBSERVATION_RECORDS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/environmental-print-and-print-communication-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/environmental-print-and-print-communication-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 1,
+      "source_grades": [
+        "PK3",
         "PK4"
       ],
       "reader_first_guide_available": true,
