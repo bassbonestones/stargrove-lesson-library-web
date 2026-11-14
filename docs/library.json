@@ -1,8 +1,8 @@
 {
-  "count": 70,
-  "reader_first_guide_available_count": 70,
-  "classroom_guide_available_count": 70,
-  "family_count": 31,
+  "count": 71,
+  "reader_first_guide_available_count": 71,
+  "classroom_guide_available_count": 71,
+  "family_count": 32,
   "subjects": [
     {
       "key": "fine-arts",
@@ -27,7 +27,7 @@
     {
       "key": "social",
       "title": "Social & Emotional Learning",
-      "count": 11
+      "count": 12
     },
     {
       "key": "physical",
@@ -2847,6 +2847,45 @@
       ],
       "number": 1,
       "source_grades": [
+        "PK4"
+      ],
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "engaging-teacher-led-group-attention-v0_1",
+      "subject": "social",
+      "topic": "Engaging Teacher-Led Group Attention",
+      "title": "Authentic teacher-led group noticing",
+      "plan": "LESSON_01_AUTHENTIC_TEACHER_LED_GROUP_NOTICING.md",
+      "url": "/stargrove-lesson-library-web/lessons/engaging-teacher-led-group-attention-v0_1/LESSON_01_AUTHENTIC_TEACHER_LED_GROUP_NOTICING.html",
+      "sources": [
+        "PK3.I.B.3.b",
+        "PK4.I.B.3.b"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/engaging-teacher-led-group-attention-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Group Attention Observation Records",
+          "/stargrove-lesson-library-web/lessons/engaging-teacher-led-group-attention-v0_1/ORIGINAL_GROUP_ATTENTION_OBSERVATION_RECORDS.html"
+        ],
+        [
+          "Group Engagement Station Mats",
+          "/stargrove-lesson-library-web/lessons/engaging-teacher-led-group-attention-v0_1/ORIGINAL_GROUP_ENGAGEMENT_STATION_MATS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/engaging-teacher-led-group-attention-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/engaging-teacher-led-group-attention-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 1,
+      "source_grades": [
+        "PK3",
         "PK4"
       ],
       "reader_first_guide_available": true,
