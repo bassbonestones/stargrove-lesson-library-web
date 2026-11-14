@@ -1,8 +1,8 @@
 {
-  "count": 67,
-  "reader_first_guide_available_count": 67,
-  "classroom_guide_available_count": 67,
-  "family_count": 28,
+  "count": 68,
+  "reader_first_guide_available_count": 68,
+  "classroom_guide_available_count": 68,
+  "family_count": 29,
   "subjects": [
     {
       "key": "fine-arts",
@@ -12,7 +12,7 @@
     {
       "key": "math",
       "title": "Mathematics",
-      "count": 28
+      "count": 29
     },
     {
       "key": "language",
@@ -2730,6 +2730,43 @@
         [
           "Family teaching guide",
           "/stargrove-lesson-library-web/lessons/community-needs-and-helpers-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 1,
+      "source_grades": [
+        "PK4"
+      ],
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "composing-decomposing-quantities-v0_1",
+      "subject": "math",
+      "topic": "Composing & Decomposing Quantities",
+      "title": "Two trays, one whole: child-chosen physical parts",
+      "plan": "LESSON_01_PHYSICAL_TEN_PART_WHOLE_CONSERVATION.md",
+      "url": "/stargrove-lesson-library-web/lessons/composing-decomposing-quantities-v0_1/LESSON_01_PHYSICAL_TEN_PART_WHOLE_CONSERVATION.html",
+      "sources": [
+        "PK4.V.A.7"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/composing-decomposing-quantities-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Split Scenes",
+          "/stargrove-lesson-library-web/lessons/composing-decomposing-quantities-v0_1/ORIGINAL_SPLIT_SCENES.html"
+        ],
+        [
+          "Stage Cards",
+          "/stargrove-lesson-library-web/lessons/composing-decomposing-quantities-v0_1/ORIGINAL_STAGE_CARDS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/composing-decomposing-quantities-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/composing-decomposing-quantities-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 1,
