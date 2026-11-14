@@ -1,8 +1,8 @@
 {
-  "count": 69,
-  "reader_first_guide_available_count": 69,
-  "classroom_guide_available_count": 69,
-  "family_count": 30,
+  "count": 70,
+  "reader_first_guide_available_count": 70,
+  "classroom_guide_available_count": 70,
+  "family_count": 31,
   "subjects": [
     {
       "key": "fine-arts",
@@ -37,7 +37,7 @@
     {
       "key": "technology",
       "title": "Technology & Information",
-      "count": 3
+      "count": 4
     }
   ],
   "lessons": [
@@ -2810,6 +2810,43 @@
       "number": 1,
       "source_grades": [
         "PK3",
+        "PK4"
+      ],
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "contributing-child-owned-ideas-to-class-digital-products-v0_1",
+      "subject": "technology",
+      "topic": "Class Digital Mural",
+      "title": "Our class digital mural: add an idea that is yours",
+      "plan": "LESSON_01_GENUINE_SHARED_OFFLINE_DIGITAL_MURAL.md",
+      "url": "/stargrove-lesson-library-web/lessons/contributing-child-owned-ideas-to-class-digital-products-v0_1/LESSON_01_GENUINE_SHARED_OFFLINE_DIGITAL_MURAL.html",
+      "sources": [
+        "PK4.X.A.3"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/contributing-child-owned-ideas-to-class-digital-products-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Xa3 Shared Digital Creation Invitations",
+          "/stargrove-lesson-library-web/lessons/contributing-child-owned-ideas-to-class-digital-products-v0_1/ORIGINAL_XA3_SHARED_DIGITAL_CREATION_INVITATIONS.html"
+        ],
+        [
+          "Xa3 Shared Digital Creation Observations",
+          "/stargrove-lesson-library-web/lessons/contributing-child-owned-ideas-to-class-digital-products-v0_1/ORIGINAL_XA3_SHARED_DIGITAL_CREATION_OBSERVATIONS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/contributing-child-owned-ideas-to-class-digital-products-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/contributing-child-owned-ideas-to-class-digital-products-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 1,
+      "source_grades": [
         "PK4"
       ],
       "reader_first_guide_available": true,
