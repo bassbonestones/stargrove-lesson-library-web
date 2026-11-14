@@ -1,8 +1,8 @@
 {
-  "count": 71,
-  "reader_first_guide_available_count": 71,
-  "classroom_guide_available_count": 71,
-  "family_count": 32,
+  "count": 72,
+  "reader_first_guide_available_count": 72,
+  "classroom_guide_available_count": 72,
+  "family_count": 33,
   "subjects": [
     {
       "key": "fine-arts",
@@ -17,7 +17,7 @@
     {
       "key": "language",
       "title": "Literacy & Language",
-      "count": 13
+      "count": 14
     },
     {
       "key": "social-studies",
@@ -2886,6 +2886,43 @@
       "number": 1,
       "source_grades": [
         "PK3",
+        "PK4"
+      ],
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "experimenting-with-punctuation-in-actual-child-writing-v0_1",
+      "subject": "language",
+      "topic": "Exploring Punctuation in Writing",
+      "title": "A Note About Something I Notice",
+      "plan": "LESSON_01_ORIGINAL_OBSERVATION_NOTE_PUNCTUATION.md",
+      "url": "/stargrove-lesson-library-web/lessons/experimenting-with-punctuation-in-actual-child-writing-v0_1/LESSON_01_ORIGINAL_OBSERVATION_NOTE_PUNCTUATION.html",
+      "sources": [
+        "PK4.IV.C.5"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/experimenting-with-punctuation-in-actual-child-writing-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Child Written Punctuation Experiment Cards",
+          "/stargrove-lesson-library-web/lessons/experimenting-with-punctuation-in-actual-child-writing-v0_1/ORIGINAL_CHILD_WRITTEN_PUNCTUATION_EXPERIMENT_CARDS.html"
+        ],
+        [
+          "Pk4 Punctuation Experiment Source Observations",
+          "/stargrove-lesson-library-web/lessons/experimenting-with-punctuation-in-actual-child-writing-v0_1/ORIGINAL_PK4_PUNCTUATION_EXPERIMENT_SOURCE_OBSERVATIONS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/experimenting-with-punctuation-in-actual-child-writing-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/experimenting-with-punctuation-in-actual-child-writing-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 1,
+      "source_grades": [
         "PK4"
       ],
       "reader_first_guide_available": true,
