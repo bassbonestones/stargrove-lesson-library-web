@@ -1,8 +1,8 @@
 {
-  "count": 68,
-  "reader_first_guide_available_count": 68,
-  "classroom_guide_available_count": 68,
-  "family_count": 29,
+  "count": 69,
+  "reader_first_guide_available_count": 69,
+  "classroom_guide_available_count": 69,
+  "family_count": 30,
   "subjects": [
     {
       "key": "fine-arts",
@@ -17,7 +17,7 @@
     {
       "key": "language",
       "title": "Literacy & Language",
-      "count": 12
+      "count": 13
     },
     {
       "key": "social-studies",
@@ -2771,6 +2771,45 @@
       ],
       "number": 1,
       "source_grades": [
+        "PK4"
+      ],
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "compound-word-parts-and-formation-v0_1",
+      "subject": "language",
+      "topic": "Compound Words: Parts & Formation",
+      "title": "Sunflower word garden: hear the parts, make a compound",
+      "plan": "LESSON_01_TRUE_SUNFLOWER_COMPOUND_BASES.md",
+      "url": "/stargrove-lesson-library-web/lessons/compound-word-parts-and-formation-v0_1/LESSON_01_TRUE_SUNFLOWER_COMPOUND_BASES.html",
+      "sources": [
+        "PK3.III.B.3",
+        "PK4.III.B.3"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/compound-word-parts-and-formation-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Compound Word Observations",
+          "/stargrove-lesson-library-web/lessons/compound-word-parts-and-formation-v0_1/ORIGINAL_COMPOUND_WORD_OBSERVATIONS.html"
+        ],
+        [
+          "Compound Word Picture Mats",
+          "/stargrove-lesson-library-web/lessons/compound-word-parts-and-formation-v0_1/ORIGINAL_COMPOUND_WORD_PICTURE_MATS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/compound-word-parts-and-formation-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/compound-word-parts-and-formation-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 1,
+      "source_grades": [
+        "PK3",
         "PK4"
       ],
       "reader_first_guide_available": true,
