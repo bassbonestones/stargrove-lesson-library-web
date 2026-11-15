@@ -1,8 +1,8 @@
 {
-  "count": 79,
-  "reader_first_guide_available_count": 79,
-  "classroom_guide_available_count": 79,
-  "family_count": 40,
+  "count": 80,
+  "reader_first_guide_available_count": 80,
+  "classroom_guide_available_count": 80,
+  "family_count": 41,
   "subjects": [
     {
       "key": "fine-arts",
@@ -27,7 +27,7 @@
     {
       "key": "social",
       "title": "Social & Emotional Learning",
-      "count": 13
+      "count": 14
     },
     {
       "key": "physical",
@@ -3180,6 +3180,45 @@
         [
           "Family teaching guide",
           "/stargrove-lesson-library-web/lessons/classroom-materials-care-and-management-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 1,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "emotion-recognition-and-behavior-connections-v0_1",
+      "subject": "social",
+      "topic": "Exploring Feelings and Actions",
+      "title": "Genuine voluntary feeling expression",
+      "plan": "LESSON_01_GENUINE_VOLUNTARY_FEELING_EXPRESSION.md",
+      "url": "/stargrove-lesson-library-web/lessons/emotion-recognition-and-behavior-connections-v0_1/LESSON_01_GENUINE_VOLUNTARY_FEELING_EXPRESSION.html",
+      "sources": [
+        "PK3.I.B.2.a",
+        "PK4.I.B.2.a"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/emotion-recognition-and-behavior-connections-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Emotion Communication Aids",
+          "/stargrove-lesson-library-web/lessons/emotion-recognition-and-behavior-connections-v0_1/ORIGINAL_EMOTION_COMMUNICATION_AIDS.html"
+        ],
+        [
+          "Feelings Actions Evidence Records",
+          "/stargrove-lesson-library-web/lessons/emotion-recognition-and-behavior-connections-v0_1/ORIGINAL_FEELINGS_ACTIONS_EVIDENCE_RECORDS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/emotion-recognition-and-behavior-connections-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/emotion-recognition-and-behavior-connections-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 1,
