@@ -1,8 +1,8 @@
 {
-  "count": 80,
-  "reader_first_guide_available_count": 80,
-  "classroom_guide_available_count": 80,
-  "family_count": 41,
+  "count": 81,
+  "reader_first_guide_available_count": 81,
+  "classroom_guide_available_count": 81,
+  "family_count": 42,
   "subjects": [
     {
       "key": "fine-arts",
@@ -22,7 +22,7 @@
     {
       "key": "social-studies",
       "title": "Social Studies",
-      "count": 2
+      "count": 3
     },
     {
       "key": "social",
@@ -3224,6 +3224,44 @@
       "number": 1,
       "source_grades": [
         "PK3",
+        "PK4"
+      ],
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "people-and-families-similarities-v0_1",
+      "subject": "social-studies",
+      "topic": "People and Families: Alike and Different",
+      "title": "Evidence Portrait Studio: alike, different, and still unknown",
+      "plan": "LESSON_01_VOLUNTARY_PEOPLE_EVIDENCE_PORTRAITS.md",
+      "url": "/stargrove-lesson-library-web/lessons/people-and-families-similarities-v0_1/LESSON_01_VOLUNTARY_PEOPLE_EVIDENCE_PORTRAITS.html",
+      "sources": [
+        "PK4.VII.A.1",
+        "PK4.VII.A.2"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/people-and-families-similarities-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "People Family Stories",
+          "/stargrove-lesson-library-web/lessons/people-and-families-similarities-v0_1/ORIGINAL_PEOPLE_FAMILY_STORIES.html"
+        ],
+        [
+          "Stage Cards",
+          "/stargrove-lesson-library-web/lessons/people-and-families-similarities-v0_1/ORIGINAL_STAGE_CARDS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/people-and-families-similarities-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/people-and-families-similarities-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 1,
+      "source_grades": [
         "PK4"
       ],
       "reader_first_guide_available": true,
