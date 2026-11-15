@@ -1,13 +1,13 @@
 {
-  "count": 84,
-  "reader_first_guide_available_count": 84,
-  "classroom_guide_available_count": 84,
-  "family_count": 45,
+  "count": 85,
+  "reader_first_guide_available_count": 85,
+  "classroom_guide_available_count": 85,
+  "family_count": 46,
   "subjects": [
     {
       "key": "fine-arts",
       "title": "Fine Arts",
-      "count": 3
+      "count": 4
     },
     {
       "key": "math",
@@ -3379,6 +3379,39 @@
       "number": 1,
       "source_grades": [
         "PK3",
+        "PK4"
+      ],
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "fine-arts-music-making-and-response-v0_1",
+      "subject": "fine-arts",
+      "topic": "Music Making and Response",
+      "title": "Rhythm Garden: choose a musical role",
+      "plan": "LESSON_01_RHYTHM_GARDEN_SOUND_ROLES.md",
+      "url": "/stargrove-lesson-library-web/lessons/fine-arts-music-making-and-response-v0_1/LESSON_01_RHYTHM_GARDEN_SOUND_ROLES.html",
+      "sources": [
+        "PK4.VIII.B.1"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/fine-arts-music-making-and-response-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Music Stage Cards",
+          "/stargrove-lesson-library-web/lessons/fine-arts-music-making-and-response-v0_1/ORIGINAL_MUSIC_STAGE_CARDS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/fine-arts-music-making-and-response-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/fine-arts-music-making-and-response-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 1,
+      "source_grades": [
         "PK4"
       ],
       "reader_first_guide_available": true,
