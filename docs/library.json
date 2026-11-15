@@ -1,8 +1,8 @@
 {
-  "count": 75,
-  "reader_first_guide_available_count": 75,
-  "classroom_guide_available_count": 75,
-  "family_count": 36,
+  "count": 76,
+  "reader_first_guide_available_count": 76,
+  "classroom_guide_available_count": 76,
+  "family_count": 37,
   "subjects": [
     {
       "key": "fine-arts",
@@ -17,7 +17,7 @@
     {
       "key": "language",
       "title": "Literacy & Language",
-      "count": 15
+      "count": 16
     },
     {
       "key": "social-studies",
@@ -3043,6 +3043,45 @@
       ],
       "number": 1,
       "source_grades": [
+        "PK4"
+      ],
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "intonation-fingerplay-and-meaning-v0_1",
+      "subject": "language",
+      "topic": "Voice and Language Meaning",
+      "title": "Little leaf, different voices",
+      "plan": "LESSON_01_ORIGINAL_SUNG_LEAF_FINGERPLAY_PROSODY.md",
+      "url": "/stargrove-lesson-library-web/lessons/intonation-fingerplay-and-meaning-v0_1/LESSON_01_ORIGINAL_SUNG_LEAF_FINGERPLAY_PROSODY.html",
+      "sources": [
+        "PK3.II.C.2",
+        "PK4.II.C.2"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/intonation-fingerplay-and-meaning-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Intonation Fingerplay Mats",
+          "/stargrove-lesson-library-web/lessons/intonation-fingerplay-and-meaning-v0_1/ORIGINAL_INTONATION_FINGERPLAY_MATS.html"
+        ],
+        [
+          "Prosody Meaning Receipts",
+          "/stargrove-lesson-library-web/lessons/intonation-fingerplay-and-meaning-v0_1/ORIGINAL_PROSODY_MEANING_RECEIPTS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/intonation-fingerplay-and-meaning-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/intonation-fingerplay-and-meaning-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 1,
+      "source_grades": [
+        "PK3",
         "PK4"
       ],
       "reader_first_guide_available": true,
