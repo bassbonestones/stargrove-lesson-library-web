@@ -1,8 +1,8 @@
 {
-  "count": 72,
-  "reader_first_guide_available_count": 72,
-  "classroom_guide_available_count": 72,
-  "family_count": 33,
+  "count": 73,
+  "reader_first_guide_available_count": 73,
+  "classroom_guide_available_count": 73,
+  "family_count": 34,
   "subjects": [
     {
       "key": "fine-arts",
@@ -12,7 +12,7 @@
     {
       "key": "math",
       "title": "Mathematics",
-      "count": 29
+      "count": 30
     },
     {
       "key": "language",
@@ -2923,6 +2923,45 @@
       ],
       "number": 1,
       "source_grades": [
+        "PK4"
+      ],
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "length-height-comparison-v0_1",
+      "subject": "math",
+      "topic": "Comparing Lengths & Heights",
+      "title": "Start Together: Compare Real Lengths and Heights",
+      "plan": "LESSON_01_DIRECT_COMMON_START_LENGTH_HEIGHT.md",
+      "url": "/stargrove-lesson-library-web/lessons/length-height-comparison-v0_1/LESSON_01_DIRECT_COMMON_START_LENGTH_HEIGHT.html",
+      "sources": [
+        "PK3.V.D.1",
+        "PK4.V.D.1"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/length-height-comparison-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Comparison Cases",
+          "/stargrove-lesson-library-web/lessons/length-height-comparison-v0_1/ORIGINAL_COMPARISON_CASES.html"
+        ],
+        [
+          "Stage Cards",
+          "/stargrove-lesson-library-web/lessons/length-height-comparison-v0_1/ORIGINAL_STAGE_CARDS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/length-height-comparison-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/length-height-comparison-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 1,
+      "source_grades": [
+        "PK3",
         "PK4"
       ],
       "reader_first_guide_available": true,
