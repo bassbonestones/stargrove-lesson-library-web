@@ -1,13 +1,13 @@
 {
-  "count": 85,
-  "reader_first_guide_available_count": 85,
-  "classroom_guide_available_count": 85,
-  "family_count": 46,
+  "count": 77,
+  "reader_first_guide_available_count": 77,
+  "classroom_guide_available_count": 77,
+  "family_count": 38,
   "subjects": [
     {
       "key": "fine-arts",
       "title": "Fine Arts",
-      "count": 4
+      "count": 2
     },
     {
       "key": "math",
@@ -17,17 +17,17 @@
     {
       "key": "language",
       "title": "Literacy & Language",
-      "count": 18
+      "count": 16
     },
     {
       "key": "social-studies",
       "title": "Social Studies",
-      "count": 3
+      "count": 2
     },
     {
       "key": "social",
       "title": "Social & Emotional Learning",
-      "count": 15
+      "count": 12
     },
     {
       "key": "physical",
@@ -3109,309 +3109,6 @@
       "number": 1,
       "source_grades": [
         "PK3",
-        "PK4"
-      ],
-      "reader_first_guide_available": true,
-      "classroom_guide_available": true
-    },
-    {
-      "family": "creating-and-recreating-stories-moods-through-dramatic-representations-v0_1",
-      "subject": "fine-arts",
-      "topic": "Dramatic Story and Experience Play",
-      "title": "Pretend a little adventure",
-      "plan": "LESSON_01_CHILD_ORIGIN_IMAGINED_ADVENTURE.md",
-      "url": "/stargrove-lesson-library-web/lessons/creating-and-recreating-stories-moods-through-dramatic-representations-v0_1/LESSON_01_CHILD_ORIGIN_IMAGINED_ADVENTURE.html",
-      "sources": [
-        "PK4.VIII.C.1"
-      ],
-      "quality": "STRONG_DESIGN",
-      "facilitator": "/stargrove-lesson-library-web/lessons/creating-and-recreating-stories-moods-through-dramatic-representations-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
-      "materials": [
-        [
-          "Dramatic Action Observations",
-          "/stargrove-lesson-library-web/lessons/creating-and-recreating-stories-moods-through-dramatic-representations-v0_1/ORIGINAL_DRAMATIC_ACTION_OBSERVATIONS.html"
-        ],
-        [
-          "Dramatic Scene Invitation Cards",
-          "/stargrove-lesson-library-web/lessons/creating-and-recreating-stories-moods-through-dramatic-representations-v0_1/ORIGINAL_DRAMATIC_SCENE_INVITATION_CARDS.html"
-        ],
-        [
-          "Developmental sequence",
-          "/stargrove-lesson-library-web/lessons/creating-and-recreating-stories-moods-through-dramatic-representations-v0_1/DEVELOPMENTAL_SEQUENCE.html"
-        ],
-        [
-          "Family teaching guide",
-          "/stargrove-lesson-library-web/lessons/creating-and-recreating-stories-moods-through-dramatic-representations-v0_1/TEACHER_GUIDE.html"
-        ]
-      ],
-      "number": 1,
-      "source_grades": [
-        "PK4"
-      ],
-      "reader_first_guide_available": true,
-      "classroom_guide_available": true
-    },
-    {
-      "family": "classroom-materials-care-and-management-v0_1",
-      "subject": "social",
-      "topic": "Caring for Classroom Materials",
-      "title": "Choose, care for and return a reusable item",
-      "plan": "LESSON_01_REAL_CLASSROOM_MATERIAL_CARE_AND_RETURN.md",
-      "url": "/stargrove-lesson-library-web/lessons/classroom-materials-care-and-management-v0_1/LESSON_01_REAL_CLASSROOM_MATERIAL_CARE_AND_RETURN.html",
-      "sources": [
-        "PK3.I.B.1.b",
-        "PK4.I.B.1.b"
-      ],
-      "quality": "STRONG_DESIGN",
-      "facilitator": "/stargrove-lesson-library-web/lessons/classroom-materials-care-and-management-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
-      "materials": [
-        [
-          "Material Care Mats",
-          "/stargrove-lesson-library-web/lessons/classroom-materials-care-and-management-v0_1/ORIGINAL_MATERIAL_CARE_MATS.html"
-        ],
-        [
-          "Material Stewardship Receipts",
-          "/stargrove-lesson-library-web/lessons/classroom-materials-care-and-management-v0_1/ORIGINAL_MATERIAL_STEWARDSHIP_RECEIPTS.html"
-        ],
-        [
-          "Developmental sequence",
-          "/stargrove-lesson-library-web/lessons/classroom-materials-care-and-management-v0_1/DEVELOPMENTAL_SEQUENCE.html"
-        ],
-        [
-          "Family teaching guide",
-          "/stargrove-lesson-library-web/lessons/classroom-materials-care-and-management-v0_1/TEACHER_GUIDE.html"
-        ]
-      ],
-      "number": 1,
-      "source_grades": [
-        "PK3",
-        "PK4"
-      ],
-      "reader_first_guide_available": true,
-      "classroom_guide_available": true
-    },
-    {
-      "family": "emotion-recognition-and-behavior-connections-v0_1",
-      "subject": "social",
-      "topic": "Exploring Feelings and Actions",
-      "title": "Genuine voluntary feeling expression",
-      "plan": "LESSON_01_GENUINE_VOLUNTARY_FEELING_EXPRESSION.md",
-      "url": "/stargrove-lesson-library-web/lessons/emotion-recognition-and-behavior-connections-v0_1/LESSON_01_GENUINE_VOLUNTARY_FEELING_EXPRESSION.html",
-      "sources": [
-        "PK3.I.B.2.a",
-        "PK4.I.B.2.a"
-      ],
-      "quality": "STRONG_DESIGN",
-      "facilitator": "/stargrove-lesson-library-web/lessons/emotion-recognition-and-behavior-connections-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
-      "materials": [
-        [
-          "Emotion Communication Aids",
-          "/stargrove-lesson-library-web/lessons/emotion-recognition-and-behavior-connections-v0_1/ORIGINAL_EMOTION_COMMUNICATION_AIDS.html"
-        ],
-        [
-          "Feelings Actions Evidence Records",
-          "/stargrove-lesson-library-web/lessons/emotion-recognition-and-behavior-connections-v0_1/ORIGINAL_FEELINGS_ACTIONS_EVIDENCE_RECORDS.html"
-        ],
-        [
-          "Developmental sequence",
-          "/stargrove-lesson-library-web/lessons/emotion-recognition-and-behavior-connections-v0_1/DEVELOPMENTAL_SEQUENCE.html"
-        ],
-        [
-          "Family teaching guide",
-          "/stargrove-lesson-library-web/lessons/emotion-recognition-and-behavior-connections-v0_1/TEACHER_GUIDE.html"
-        ]
-      ],
-      "number": 1,
-      "source_grades": [
-        "PK3",
-        "PK4"
-      ],
-      "reader_first_guide_available": true,
-      "classroom_guide_available": true
-    },
-    {
-      "family": "people-and-families-similarities-v0_1",
-      "subject": "social-studies",
-      "topic": "People and Families: Alike and Different",
-      "title": "Evidence Portrait Studio: alike, different, and still unknown",
-      "plan": "LESSON_01_VOLUNTARY_PEOPLE_EVIDENCE_PORTRAITS.md",
-      "url": "/stargrove-lesson-library-web/lessons/people-and-families-similarities-v0_1/LESSON_01_VOLUNTARY_PEOPLE_EVIDENCE_PORTRAITS.html",
-      "sources": [
-        "PK4.VII.A.1",
-        "PK4.VII.A.2"
-      ],
-      "quality": "STRONG_DESIGN",
-      "facilitator": "/stargrove-lesson-library-web/lessons/people-and-families-similarities-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
-      "materials": [
-        [
-          "People Family Stories",
-          "/stargrove-lesson-library-web/lessons/people-and-families-similarities-v0_1/ORIGINAL_PEOPLE_FAMILY_STORIES.html"
-        ],
-        [
-          "Stage Cards",
-          "/stargrove-lesson-library-web/lessons/people-and-families-similarities-v0_1/ORIGINAL_STAGE_CARDS.html"
-        ],
-        [
-          "Developmental sequence",
-          "/stargrove-lesson-library-web/lessons/people-and-families-similarities-v0_1/DEVELOPMENTAL_SEQUENCE.html"
-        ],
-        [
-          "Family teaching guide",
-          "/stargrove-lesson-library-web/lessons/people-and-families-similarities-v0_1/TEACHER_GUIDE.html"
-        ]
-      ],
-      "number": 1,
-      "source_grades": [
-        "PK4"
-      ],
-      "reader_first_guide_available": true,
-      "classroom_guide_available": true
-    },
-    {
-      "family": "english-onset-rime-play-and-word-identification-v0_1",
-      "subject": "language",
-      "topic": "English Onset–Rime Word Play",
-      "title": "Real CAT–HAT–BAT sound bridges",
-      "plan": "LESSON_01_TRUE_SPOKEN_CAT_HAT_RIME_BRIDGE.md",
-      "url": "/stargrove-lesson-library-web/lessons/english-onset-rime-play-and-word-identification-v0_1/LESSON_01_TRUE_SPOKEN_CAT_HAT_RIME_BRIDGE.html",
-      "sources": [
-        "PK3.III.B.8",
-        "PK4.III.B.8"
-      ],
-      "quality": "STRONG_DESIGN",
-      "facilitator": "/stargrove-lesson-library-web/lessons/english-onset-rime-play-and-word-identification-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
-      "materials": [
-        [
-          "English Onset Rime Observations",
-          "/stargrove-lesson-library-web/lessons/english-onset-rime-play-and-word-identification-v0_1/ORIGINAL_ENGLISH_ONSET_RIME_OBSERVATIONS.html"
-        ],
-        [
-          "Onset Rime Adult Audio Mats",
-          "/stargrove-lesson-library-web/lessons/english-onset-rime-play-and-word-identification-v0_1/ORIGINAL_ONSET_RIME_ADULT_AUDIO_MATS.html"
-        ],
-        [
-          "Developmental sequence",
-          "/stargrove-lesson-library-web/lessons/english-onset-rime-play-and-word-identification-v0_1/DEVELOPMENTAL_SEQUENCE.html"
-        ],
-        [
-          "Family teaching guide",
-          "/stargrove-lesson-library-web/lessons/english-onset-rime-play-and-word-identification-v0_1/TEACHER_GUIDE.html"
-        ]
-      ],
-      "number": 1,
-      "source_grades": [
-        "PK3",
-        "PK4"
-      ],
-      "reader_first_guide_available": true,
-      "classroom_guide_available": true
-    },
-    {
-      "family": "feeling-word-meaning-and-authentic-communication-v0_1",
-      "subject": "social",
-      "topic": "Feeling Words and Meaningful Communication",
-      "title": "Feeling words in gentle stories and everyday communication",
-      "plan": "LESSON_01_CONTEXTUAL_FEELING_WORD_EXPLORATION.md",
-      "url": "/stargrove-lesson-library-web/lessons/feeling-word-meaning-and-authentic-communication-v0_1/LESSON_01_CONTEXTUAL_FEELING_WORD_EXPLORATION.html",
-      "sources": [
-        "PK3.I.B.2.b",
-        "PK4.I.B.2.b"
-      ],
-      "quality": "STRONG_DESIGN",
-      "facilitator": "/stargrove-lesson-library-web/lessons/feeling-word-meaning-and-authentic-communication-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
-      "materials": [
-        [
-          "Basic Feeling Word Mats",
-          "/stargrove-lesson-library-web/lessons/feeling-word-meaning-and-authentic-communication-v0_1/ORIGINAL_BASIC_FEELING_WORD_MATS.html"
-        ],
-        [
-          "Emotion Message Observation",
-          "/stargrove-lesson-library-web/lessons/feeling-word-meaning-and-authentic-communication-v0_1/ORIGINAL_EMOTION_MESSAGE_OBSERVATION.html"
-        ],
-        [
-          "Developmental sequence",
-          "/stargrove-lesson-library-web/lessons/feeling-word-meaning-and-authentic-communication-v0_1/DEVELOPMENTAL_SEQUENCE.html"
-        ],
-        [
-          "Family teaching guide",
-          "/stargrove-lesson-library-web/lessons/feeling-word-meaning-and-authentic-communication-v0_1/TEACHER_GUIDE.html"
-        ]
-      ],
-      "number": 1,
-      "source_grades": [
-        "PK3",
-        "PK4"
-      ],
-      "reader_first_guide_available": true,
-      "classroom_guide_available": true
-    },
-    {
-      "family": "familiar-letters-and-twenty-letter-name-recognition-v0_1",
-      "subject": "language",
-      "topic": "Familiar Letters and Letter Names",
-      "title": "A letter that matters to me",
-      "plan": "LESSON_01_TRUE_PERSONAL_INITIAL_AND_ALPHABET_AWARENESS.md",
-      "url": "/stargrove-lesson-library-web/lessons/familiar-letters-and-twenty-letter-name-recognition-v0_1/LESSON_01_TRUE_PERSONAL_INITIAL_AND_ALPHABET_AWARENESS.html",
-      "sources": [
-        "PK3.III.C.1",
-        "PK4.III.C.1"
-      ],
-      "quality": "STRONG_DESIGN",
-      "facilitator": "/stargrove-lesson-library-web/lessons/familiar-letters-and-twenty-letter-name-recognition-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
-      "materials": [
-        [
-          "Familiar Letter Name Mats",
-          "/stargrove-lesson-library-web/lessons/familiar-letters-and-twenty-letter-name-recognition-v0_1/ORIGINAL_FAMILIAR_LETTER_NAME_MATS.html"
-        ],
-        [
-          "Letter Recognition Observations",
-          "/stargrove-lesson-library-web/lessons/familiar-letters-and-twenty-letter-name-recognition-v0_1/ORIGINAL_LETTER_RECOGNITION_OBSERVATIONS.html"
-        ],
-        [
-          "Developmental sequence",
-          "/stargrove-lesson-library-web/lessons/familiar-letters-and-twenty-letter-name-recognition-v0_1/DEVELOPMENTAL_SEQUENCE.html"
-        ],
-        [
-          "Family teaching guide",
-          "/stargrove-lesson-library-web/lessons/familiar-letters-and-twenty-letter-name-recognition-v0_1/TEACHER_GUIDE.html"
-        ]
-      ],
-      "number": 1,
-      "source_grades": [
-        "PK3",
-        "PK4"
-      ],
-      "reader_first_guide_available": true,
-      "classroom_guide_available": true
-    },
-    {
-      "family": "fine-arts-music-making-and-response-v0_1",
-      "subject": "fine-arts",
-      "topic": "Music Making and Response",
-      "title": "Rhythm Garden: choose a musical role",
-      "plan": "LESSON_01_RHYTHM_GARDEN_SOUND_ROLES.md",
-      "url": "/stargrove-lesson-library-web/lessons/fine-arts-music-making-and-response-v0_1/LESSON_01_RHYTHM_GARDEN_SOUND_ROLES.html",
-      "sources": [
-        "PK4.VIII.B.1"
-      ],
-      "quality": "STRONG_DESIGN",
-      "facilitator": "/stargrove-lesson-library-web/lessons/fine-arts-music-making-and-response-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
-      "materials": [
-        [
-          "Music Stage Cards",
-          "/stargrove-lesson-library-web/lessons/fine-arts-music-making-and-response-v0_1/ORIGINAL_MUSIC_STAGE_CARDS.html"
-        ],
-        [
-          "Developmental sequence",
-          "/stargrove-lesson-library-web/lessons/fine-arts-music-making-and-response-v0_1/DEVELOPMENTAL_SEQUENCE.html"
-        ],
-        [
-          "Family teaching guide",
-          "/stargrove-lesson-library-web/lessons/fine-arts-music-making-and-response-v0_1/TEACHER_GUIDE.html"
-        ]
-      ],
-      "number": 1,
-      "source_grades": [
         "PK4"
       ],
       "reader_first_guide_available": true,
