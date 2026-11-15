@@ -1,8 +1,8 @@
 {
-  "count": 82,
-  "reader_first_guide_available_count": 82,
-  "classroom_guide_available_count": 82,
-  "family_count": 43,
+  "count": 83,
+  "reader_first_guide_available_count": 83,
+  "classroom_guide_available_count": 83,
+  "family_count": 44,
   "subjects": [
     {
       "key": "fine-arts",
@@ -27,7 +27,7 @@
     {
       "key": "social",
       "title": "Social & Emotional Learning",
-      "count": 14
+      "count": 15
     },
     {
       "key": "physical",
@@ -3296,6 +3296,45 @@
         [
           "Family teaching guide",
           "/stargrove-lesson-library-web/lessons/english-onset-rime-play-and-word-identification-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 1,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "feeling-word-meaning-and-authentic-communication-v0_1",
+      "subject": "social",
+      "topic": "Feeling Words and Meaningful Communication",
+      "title": "Feeling words in gentle stories and everyday communication",
+      "plan": "LESSON_01_CONTEXTUAL_FEELING_WORD_EXPLORATION.md",
+      "url": "/stargrove-lesson-library-web/lessons/feeling-word-meaning-and-authentic-communication-v0_1/LESSON_01_CONTEXTUAL_FEELING_WORD_EXPLORATION.html",
+      "sources": [
+        "PK3.I.B.2.b",
+        "PK4.I.B.2.b"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/feeling-word-meaning-and-authentic-communication-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Basic Feeling Word Mats",
+          "/stargrove-lesson-library-web/lessons/feeling-word-meaning-and-authentic-communication-v0_1/ORIGINAL_BASIC_FEELING_WORD_MATS.html"
+        ],
+        [
+          "Emotion Message Observation",
+          "/stargrove-lesson-library-web/lessons/feeling-word-meaning-and-authentic-communication-v0_1/ORIGINAL_EMOTION_MESSAGE_OBSERVATION.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/feeling-word-meaning-and-authentic-communication-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/feeling-word-meaning-and-authentic-communication-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 1,

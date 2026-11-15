@@ -1,6 +1,6 @@
 # Stargrove Education - Public Lesson Library
 
-Public static snapshot of 82 reviewed preschool lesson plans across 8 subjects and 43 learning topics, with facilitator guides, family guides and original printable teaching resources.
+Public static snapshot of 83 reviewed preschool lesson plans across 8 subjects and 44 learning topics, with facilitator guides, family guides and original printable teaching resources.
 
 This separate public GitHub Pages mirror intentionally contains only the generated static site and excludes internal qualification audits and lessons not yet accepted. Static written-design review is not demonstrated classroom educational effectiveness.
 
