@@ -1,13 +1,13 @@
 {
-  "count": 77,
-  "reader_first_guide_available_count": 77,
-  "classroom_guide_available_count": 77,
-  "family_count": 38,
+  "count": 78,
+  "reader_first_guide_available_count": 78,
+  "classroom_guide_available_count": 78,
+  "family_count": 39,
   "subjects": [
     {
       "key": "fine-arts",
       "title": "Fine Arts",
-      "count": 2
+      "count": 3
     },
     {
       "key": "math",
@@ -3109,6 +3109,43 @@
       "number": 1,
       "source_grades": [
         "PK3",
+        "PK4"
+      ],
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "creating-and-recreating-stories-moods-through-dramatic-representations-v0_1",
+      "subject": "fine-arts",
+      "topic": "Dramatic Story and Experience Play",
+      "title": "Pretend a little adventure",
+      "plan": "LESSON_01_CHILD_ORIGIN_IMAGINED_ADVENTURE.md",
+      "url": "/stargrove-lesson-library-web/lessons/creating-and-recreating-stories-moods-through-dramatic-representations-v0_1/LESSON_01_CHILD_ORIGIN_IMAGINED_ADVENTURE.html",
+      "sources": [
+        "PK4.VIII.C.1"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/creating-and-recreating-stories-moods-through-dramatic-representations-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Dramatic Action Observations",
+          "/stargrove-lesson-library-web/lessons/creating-and-recreating-stories-moods-through-dramatic-representations-v0_1/ORIGINAL_DRAMATIC_ACTION_OBSERVATIONS.html"
+        ],
+        [
+          "Dramatic Scene Invitation Cards",
+          "/stargrove-lesson-library-web/lessons/creating-and-recreating-stories-moods-through-dramatic-representations-v0_1/ORIGINAL_DRAMATIC_SCENE_INVITATION_CARDS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/creating-and-recreating-stories-moods-through-dramatic-representations-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/creating-and-recreating-stories-moods-through-dramatic-representations-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 1,
+      "source_grades": [
         "PK4"
       ],
       "reader_first_guide_available": true,
