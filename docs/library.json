@@ -1,8 +1,8 @@
 {
-  "count": 83,
-  "reader_first_guide_available_count": 83,
-  "classroom_guide_available_count": 83,
-  "family_count": 44,
+  "count": 84,
+  "reader_first_guide_available_count": 84,
+  "classroom_guide_available_count": 84,
+  "family_count": 45,
   "subjects": [
     {
       "key": "fine-arts",
@@ -17,7 +17,7 @@
     {
       "key": "language",
       "title": "Literacy & Language",
-      "count": 17
+      "count": 18
     },
     {
       "key": "social-studies",
@@ -3335,6 +3335,45 @@
         [
           "Family teaching guide",
           "/stargrove-lesson-library-web/lessons/feeling-word-meaning-and-authentic-communication-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 1,
+      "source_grades": [
+        "PK3",
+        "PK4"
+      ],
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "familiar-letters-and-twenty-letter-name-recognition-v0_1",
+      "subject": "language",
+      "topic": "Familiar Letters and Letter Names",
+      "title": "A letter that matters to me",
+      "plan": "LESSON_01_TRUE_PERSONAL_INITIAL_AND_ALPHABET_AWARENESS.md",
+      "url": "/stargrove-lesson-library-web/lessons/familiar-letters-and-twenty-letter-name-recognition-v0_1/LESSON_01_TRUE_PERSONAL_INITIAL_AND_ALPHABET_AWARENESS.html",
+      "sources": [
+        "PK3.III.C.1",
+        "PK4.III.C.1"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/familiar-letters-and-twenty-letter-name-recognition-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Familiar Letter Name Mats",
+          "/stargrove-lesson-library-web/lessons/familiar-letters-and-twenty-letter-name-recognition-v0_1/ORIGINAL_FAMILIAR_LETTER_NAME_MATS.html"
+        ],
+        [
+          "Letter Recognition Observations",
+          "/stargrove-lesson-library-web/lessons/familiar-letters-and-twenty-letter-name-recognition-v0_1/ORIGINAL_LETTER_RECOGNITION_OBSERVATIONS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/familiar-letters-and-twenty-letter-name-recognition-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/familiar-letters-and-twenty-letter-name-recognition-v0_1/TEACHER_GUIDE.html"
         ]
       ],
       "number": 1,
