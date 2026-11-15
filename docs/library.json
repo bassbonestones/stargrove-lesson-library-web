@@ -1,8 +1,8 @@
 {
-  "count": 74,
-  "reader_first_guide_available_count": 74,
-  "classroom_guide_available_count": 74,
-  "family_count": 35,
+  "count": 75,
+  "reader_first_guide_available_count": 75,
+  "classroom_guide_available_count": 75,
+  "family_count": 36,
   "subjects": [
     {
       "key": "fine-arts",
@@ -38,6 +38,11 @@
       "key": "technology",
       "title": "Technology & Information",
       "count": 4
+    },
+    {
+      "key": "science",
+      "title": "Science",
+      "count": 1
     }
   ],
   "lessons": [
@@ -3001,6 +3006,43 @@
       "number": 1,
       "source_grades": [
         "PK3",
+        "PK4"
+      ],
+      "reader_first_guide_available": true,
+      "classroom_guide_available": true
+    },
+    {
+      "family": "identifying-observing-and-discussing-objects-in-the-sky-v0_1",
+      "subject": "science",
+      "topic": "Exploring Objects in the Sky",
+      "title": "Real Day Sky Objects Discussion",
+      "plan": "LESSON_01_REAL_DAY_SKY_OBJECTS_DISCUSSION.md",
+      "url": "/stargrove-lesson-library-web/lessons/identifying-observing-and-discussing-objects-in-the-sky-v0_1/LESSON_01_REAL_DAY_SKY_OBJECTS_DISCUSSION.html",
+      "sources": [
+        "PK4.VI.C.2"
+      ],
+      "quality": "STRONG_DESIGN",
+      "facilitator": "/stargrove-lesson-library-web/lessons/identifying-observing-and-discussing-objects-in-the-sky-v0_1/LESSON_01_FACILITATOR_GUIDE.html",
+      "materials": [
+        [
+          "Sky Object Illustration Cards",
+          "/stargrove-lesson-library-web/lessons/identifying-observing-and-discussing-objects-in-the-sky-v0_1/ORIGINAL_SKY_OBJECT_ILLUSTRATION_CARDS.html"
+        ],
+        [
+          "Sky Object Source Observations",
+          "/stargrove-lesson-library-web/lessons/identifying-observing-and-discussing-objects-in-the-sky-v0_1/ORIGINAL_SKY_OBJECT_SOURCE_OBSERVATIONS.html"
+        ],
+        [
+          "Developmental sequence",
+          "/stargrove-lesson-library-web/lessons/identifying-observing-and-discussing-objects-in-the-sky-v0_1/DEVELOPMENTAL_SEQUENCE.html"
+        ],
+        [
+          "Family teaching guide",
+          "/stargrove-lesson-library-web/lessons/identifying-observing-and-discussing-objects-in-the-sky-v0_1/TEACHER_GUIDE.html"
+        ]
+      ],
+      "number": 1,
+      "source_grades": [
         "PK4"
       ],
       "reader_first_guide_available": true,
